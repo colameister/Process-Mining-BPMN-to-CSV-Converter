@@ -1,0 +1,1201 @@
+Case ID,Activity,Timestamp,Person,Cost (EUR),Product,Product Price (EUR),Customer,Pickup Location,Delivery Location
+1,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,24.68,P,r,Firma4,Standort E,Standort D
+1,Bestellung aufnehmen,2024-01-19 19:56:15,Sophia Bauer,18.47,P,r,Firma1,Standort A,Standort E
+1,Bestellung wird an Werk übergeben,2024-01-19 22:56:15,Leon Zimmermann,58.36,P,r,Firma4,Standort D,Standort A
+1,Teilenummern werden gebildet,2024-01-20 00:56:15,Felix Schröder,29.94,P,r,Firma2,Standort B,Standort D
+1,Bestellung wird eingefroren,2024-01-20 03:56:15,Anna Schmidt,63.99,P,r,Firma5,Standort D,Standort E
+1,Teile werden bereitgestellt,2024-01-20 05:56:15,Leon Zimmermann,36.22,P,r,Firma1,Standort E,Standort C
+1,Karosserie wird gebaut,2024-01-20 07:56:15,Lukas Wagner,35.21,P,r,Firma4,Standort A,Standort E
+1,Lackierung erfolgt,2024-01-20 08:56:15,Emma Hoffmann,18.88,P,r,Firma1,Standort D,Standort B
+1,Montage,2024-01-20 10:56:15,Niklas Weber,79.51,P,r,Firma1,Standort D,Standort E
+1,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Felix Schröder,83.13,P,r,Firma5,Standort B,Standort B
+1,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Emma Hoffmann,62.88,P,r,Firma4,Standort E,Standort D
+1,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Leon Zimmermann,76.13,P,r,Firma2,Standort B,Standort A
+2,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,40.01,P,r,Firma4,Standort C,Standort D
+2,Bestellung aufnehmen,2024-01-19 17:56:15,Felix Schröder,45.52,P,r,Firma4,Standort D,Standort D
+2,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Felix Schröder,13.56,P,r,Firma5,Standort E,Standort E
+2,Teilenummern werden gebildet,2024-01-19 20:56:15,Niklas Weber,52.94,P,r,Firma3,Standort D,Standort D
+2,Bestellung wird eingefroren,2024-01-19 21:56:15,Niklas Weber,50.56,P,r,Firma3,Standort E,Standort C
+2,Teile werden bereitgestellt,2024-01-20 00:56:15,Anna Schmidt,16.65,P,r,Firma2,Standort B,Standort C
+2,Karosserie wird gebaut,2024-01-20 03:56:15,Lukas Wagner,26.69,P,r,Firma5,Standort D,Standort E
+2,Lackierung erfolgt,2024-01-20 05:56:15,Leon Zimmermann,23.43,P,r,Firma5,Standort C,Standort E
+2,Montage,2024-01-20 06:56:15,Max Müller,51.72,P,r,Firma5,Standort C,Standort D
+2,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Anna Schmidt,64.34,P,r,Firma3,Standort D,Standort A
+2,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Niklas Weber,96.53,P,r,Firma3,Standort A,Standort E
+2,Produktionsnummer wird eingesteuert,2024-01-20 12:56:15,Julia Schneider,27.4,P,r,Firma1,Standort C,Standort A
+3,Auto wird versendet,2024-01-19 16:56:15,Max Müller,31.98,P,r,Firma1,Standort B,Standort C
+3,Bestellung aufnehmen,2024-01-19 17:56:15,Mia Fischer,74.76,P,r,Firma3,Standort E,Standort A
+3,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Niklas Weber,26.79,P,r,Firma2,Standort E,Standort C
+3,Teilenummern werden gebildet,2024-01-19 19:56:15,Mia Fischer,56.73,P,r,Firma4,Standort A,Standort E
+3,Bestellung wird eingefroren,2024-01-19 21:56:15,Max Müller,48.29,P,r,Firma3,Standort D,Standort E
+3,Teile werden bereitgestellt,2024-01-20 00:56:15,Max Müller,23.42,P,r,Firma5,Standort C,Standort B
+3,Karosserie wird gebaut,2024-01-20 02:56:15,Lukas Wagner,59.35,P,r,Firma1,Standort D,Standort C
+3,Lackierung erfolgt,2024-01-20 04:56:15,Leon Zimmermann,41.16,P,r,Firma1,Standort A,Standort E
+3,Montage,2024-01-20 06:56:15,Lukas Wagner,28.71,P,r,Firma1,Standort B,Standort E
+3,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Emma Hoffmann,42.84,P,r,Firma5,Standort E,Standort D
+3,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Emma Hoffmann,87.66,P,r,Firma5,Standort E,Standort B
+3,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Mia Fischer,26.34,P,r,Firma4,Standort A,Standort D
+4,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,63.35,P,r,Firma4,Standort C,Standort C
+4,Bestellung aufnehmen,2024-01-19 18:56:15,Felix Schröder,23.53,P,r,Firma4,Standort E,Standort B
+4,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Mia Fischer,68.4,P,r,Firma2,Standort C,Standort E
+4,Teilenummern werden gebildet,2024-01-19 23:56:15,Felix Schröder,88.34,P,r,Firma1,Standort E,Standort C
+4,Bestellung wird eingefroren,2024-01-20 01:56:15,Leon Zimmermann,48.68,P,r,Firma2,Standort A,Standort D
+4,Teile werden bereitgestellt,2024-01-20 04:56:15,Felix Schröder,62.03,P,r,Firma4,Standort D,Standort E
+4,Karosserie wird gebaut,2024-01-20 06:56:15,Emma Hoffmann,83.05,P,r,Firma4,Standort E,Standort D
+4,Lackierung erfolgt,2024-01-20 09:56:15,Leon Zimmermann,75.54,P,r,Firma2,Standort C,Standort A
+4,Montage,2024-01-20 11:56:15,Leon Zimmermann,89.26,P,r,Firma3,Standort B,Standort B
+4,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Sophia Bauer,90.8,P,r,Firma4,Standort A,Standort B
+4,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Mia Fischer,80.41,P,r,Firma3,Standort E,Standort B
+4,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Felix Schröder,87.37,P,r,Firma1,Standort E,Standort E
+5,Auto wird versendet,2024-01-19 16:56:15,Max Müller,35.96,P,r,Firma3,Standort A,Standort D
+5,Bestellung aufnehmen,2024-01-19 19:56:15,Mia Fischer,24.56,P,r,Firma1,Standort E,Standort D
+5,Bestellung wird an Werk übergeben,2024-01-19 22:56:15,Felix Schröder,27.6,P,r,Firma5,Standort E,Standort D
+5,Teilenummern werden gebildet,2024-01-20 01:56:15,Lukas Wagner,69.86,P,r,Firma3,Standort A,Standort E
+5,Bestellung wird eingefroren,2024-01-20 02:56:15,Anna Schmidt,80.81,P,r,Firma1,Standort D,Standort B
+5,Teile werden bereitgestellt,2024-01-20 03:56:15,Julia Schneider,67.57,P,r,Firma4,Standort B,Standort A
+5,Karosserie wird gebaut,2024-01-20 06:56:15,Felix Schröder,84.66,P,r,Firma5,Standort B,Standort D
+5,Lackierung erfolgt,2024-01-20 07:56:15,Leon Zimmermann,96.48,P,r,Firma5,Standort E,Standort A
+5,Montage,2024-01-20 09:56:15,Anna Schmidt,92.6,P,r,Firma2,Standort D,Standort D
+5,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Julia Schneider,95.23,P,r,Firma4,Standort D,Standort C
+5,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Lukas Wagner,56.02,P,r,Firma2,Standort E,Standort A
+5,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Sophia Bauer,31.41,P,r,Firma1,Standort D,Standort B
+6,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,14.16,P,r,Firma5,Standort D,Standort A
+6,Bestellung aufnehmen,2024-01-19 19:56:15,Mia Fischer,47.08,P,r,Firma3,Standort A,Standort A
+6,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,76.0,P,r,Firma3,Standort B,Standort B
+6,Teilenummern werden gebildet,2024-01-19 22:56:15,Mia Fischer,89.92,P,r,Firma4,Standort A,Standort E
+6,Bestellung wird eingefroren,2024-01-20 00:56:15,Leon Zimmermann,37.4,P,r,Firma3,Standort B,Standort C
+6,Teile werden bereitgestellt,2024-01-20 03:56:15,Niklas Weber,60.64,P,r,Firma1,Standort A,Standort D
+6,Karosserie wird gebaut,2024-01-20 06:56:15,Niklas Weber,87.2,P,r,Firma4,Standort A,Standort B
+6,Lackierung erfolgt,2024-01-20 08:56:15,Max Müller,64.26,P,r,Firma5,Standort B,Standort B
+6,Montage,2024-01-20 10:56:15,Lukas Wagner,76.38,P,r,Firma3,Standort D,Standort C
+6,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Sophia Bauer,66.67,P,r,Firma5,Standort C,Standort A
+6,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Max Müller,23.61,P,r,Firma2,Standort A,Standort E
+6,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Niklas Weber,19.03,P,r,Firma5,Standort E,Standort C
+7,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,31.12,P,r,Firma1,Standort D,Standort A
+7,Bestellung aufnehmen,2024-01-19 17:56:15,Sophia Bauer,89.13,P,r,Firma5,Standort A,Standort B
+7,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Niklas Weber,97.93,P,r,Firma1,Standort B,Standort D
+7,Teilenummern werden gebildet,2024-01-19 20:56:15,Max Müller,84.01,P,r,Firma3,Standort C,Standort E
+7,Bestellung wird eingefroren,2024-01-19 21:56:15,Lukas Wagner,21.51,P,r,Firma5,Standort D,Standort B
+7,Teile werden bereitgestellt,2024-01-20 00:56:15,Niklas Weber,99.22,P,r,Firma2,Standort C,Standort C
+7,Karosserie wird gebaut,2024-01-20 01:56:15,Mia Fischer,73.22,P,r,Firma4,Standort D,Standort B
+7,Lackierung erfolgt,2024-01-20 03:56:15,Max Müller,14.54,P,r,Firma2,Standort C,Standort E
+7,Montage,2024-01-20 04:56:15,Sophia Bauer,65.62,P,r,Firma3,Standort C,Standort D
+7,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Max Müller,57.02,P,r,Firma4,Standort C,Standort D
+7,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Mia Fischer,73.21,P,r,Firma4,Standort C,Standort E
+7,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Leon Zimmermann,26.05,P,r,Firma5,Standort B,Standort A
+8,Auto wird versendet,2024-01-19 16:56:15,Max Müller,69.5,P,r,Firma4,Standort E,Standort A
+8,Bestellung aufnehmen,2024-01-19 17:56:15,Niklas Weber,64.32,P,r,Firma2,Standort C,Standort D
+8,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Anna Schmidt,29.47,P,r,Firma5,Standort E,Standort A
+8,Teilenummern werden gebildet,2024-01-19 20:56:15,Leon Zimmermann,15.65,P,r,Firma2,Standort E,Standort B
+8,Bestellung wird eingefroren,2024-01-19 23:56:15,Sophia Bauer,99.87,P,r,Firma5,Standort E,Standort A
+8,Teile werden bereitgestellt,2024-01-20 01:56:15,Julia Schneider,92.33,P,r,Firma2,Standort E,Standort C
+8,Karosserie wird gebaut,2024-01-20 02:56:15,Lukas Wagner,53.11,P,r,Firma4,Standort B,Standort B
+8,Lackierung erfolgt,2024-01-20 04:56:15,Julia Schneider,82.84,P,r,Firma3,Standort C,Standort A
+8,Montage,2024-01-20 07:56:15,Felix Schröder,61.58,P,r,Firma4,Standort A,Standort D
+8,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Felix Schröder,45.77,P,r,Firma1,Standort D,Standort C
+8,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Niklas Weber,99.85,P,r,Firma2,Standort B,Standort C
+8,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Niklas Weber,60.03,P,r,Firma1,Standort C,Standort C
+9,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,15.03,P,r,Firma2,Standort B,Standort C
+9,Bestellung aufnehmen,2024-01-19 17:56:15,Max Müller,68.72,P,r,Firma4,Standort E,Standort E
+9,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Lukas Wagner,66.41,P,r,Firma5,Standort E,Standort B
+9,Teilenummern werden gebildet,2024-01-19 21:56:15,Sophia Bauer,46.2,P,r,Firma2,Standort A,Standort C
+9,Bestellung wird eingefroren,2024-01-20 00:56:15,Mia Fischer,22.57,P,r,Firma2,Standort A,Standort B
+9,Teile werden bereitgestellt,2024-01-20 01:56:15,Emma Hoffmann,70.49,P,r,Firma3,Standort D,Standort B
+9,Karosserie wird gebaut,2024-01-20 02:56:15,Felix Schröder,52.86,P,r,Firma4,Standort C,Standort E
+9,Lackierung erfolgt,2024-01-20 03:56:15,Mia Fischer,47.68,P,r,Firma1,Standort B,Standort D
+9,Montage,2024-01-20 06:56:15,Felix Schröder,35.55,P,r,Firma4,Standort D,Standort B
+9,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Max Müller,86.57,P,r,Firma1,Standort D,Standort E
+9,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Max Müller,89.99,P,r,Firma3,Standort B,Standort E
+9,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Julia Schneider,25.27,P,r,Firma4,Standort C,Standort C
+10,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,54.33,P,r,Firma2,Standort A,Standort C
+10,Bestellung aufnehmen,2024-01-19 18:56:15,Lukas Wagner,13.58,P,r,Firma4,Standort D,Standort A
+10,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Max Müller,62.2,P,r,Firma3,Standort D,Standort D
+10,Teilenummern werden gebildet,2024-01-20 00:56:15,Julia Schneider,45.61,P,r,Firma1,Standort A,Standort A
+10,Bestellung wird eingefroren,2024-01-20 02:56:15,Anna Schmidt,41.51,P,r,Firma3,Standort A,Standort C
+10,Teile werden bereitgestellt,2024-01-20 04:56:15,Niklas Weber,52.42,P,r,Firma5,Standort C,Standort D
+10,Karosserie wird gebaut,2024-01-20 06:56:15,Mia Fischer,87.81,P,r,Firma4,Standort D,Standort D
+10,Lackierung erfolgt,2024-01-20 09:56:15,Emma Hoffmann,71.99,P,r,Firma2,Standort E,Standort C
+10,Montage,2024-01-20 11:56:15,Julia Schneider,52.56,P,r,Firma3,Standort A,Standort A
+10,Produktions-Perlenkette wird gebildet,2024-01-20 14:56:15,Felix Schröder,95.88,P,r,Firma5,Standort B,Standort B
+10,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Sophia Bauer,82.7,P,r,Firma5,Standort E,Standort E
+10,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Niklas Weber,32.19,P,r,Firma2,Standort E,Standort A
+11,Auto wird versendet,2024-01-19 16:56:15,Max Müller,52.29,P,r,Firma2,Standort E,Standort A
+11,Bestellung aufnehmen,2024-01-19 19:56:15,Max Müller,64.75,P,r,Firma5,Standort A,Standort D
+11,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,43.21,P,r,Firma1,Standort B,Standort A
+11,Teilenummern werden gebildet,2024-01-19 21:56:15,Anna Schmidt,82.7,P,r,Firma3,Standort A,Standort A
+11,Bestellung wird eingefroren,2024-01-19 23:56:15,Max Müller,19.78,P,r,Firma3,Standort C,Standort D
+11,Teile werden bereitgestellt,2024-01-20 02:56:15,Leon Zimmermann,89.51,P,r,Firma3,Standort B,Standort B
+11,Karosserie wird gebaut,2024-01-20 04:56:15,Leon Zimmermann,59.15,P,r,Firma2,Standort E,Standort C
+11,Lackierung erfolgt,2024-01-20 07:56:15,Anna Schmidt,48.23,P,r,Firma3,Standort B,Standort C
+11,Montage,2024-01-20 08:56:15,Sophia Bauer,45.9,P,r,Firma1,Standort C,Standort C
+11,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Lukas Wagner,21.3,P,r,Firma1,Standort B,Standort E
+11,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Mia Fischer,80.42,P,r,Firma3,Standort C,Standort A
+11,Produktionsnummer wird eingesteuert,2024-01-20 13:56:15,Sophia Bauer,10.18,P,r,Firma1,Standort A,Standort C
+12,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,16.09,P,r,Firma4,Standort D,Standort B
+12,Bestellung aufnehmen,2024-01-19 19:56:15,Mia Fischer,86.3,P,r,Firma5,Standort C,Standort C
+12,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Sophia Bauer,88.0,P,r,Firma4,Standort B,Standort A
+12,Teilenummern werden gebildet,2024-01-19 21:56:15,Anna Schmidt,77.22,P,r,Firma2,Standort C,Standort E
+12,Bestellung wird eingefroren,2024-01-19 22:56:15,Mia Fischer,82.21,P,r,Firma3,Standort A,Standort C
+12,Teile werden bereitgestellt,2024-01-20 01:56:15,Felix Schröder,37.03,P,r,Firma1,Standort B,Standort A
+12,Karosserie wird gebaut,2024-01-20 04:56:15,Sophia Bauer,85.6,P,r,Firma2,Standort E,Standort A
+12,Lackierung erfolgt,2024-01-20 07:56:15,Niklas Weber,73.32,P,r,Firma4,Standort B,Standort B
+12,Montage,2024-01-20 10:56:15,Sophia Bauer,74.93,P,r,Firma5,Standort E,Standort B
+12,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Max Müller,50.11,P,r,Firma1,Standort C,Standort C
+12,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Mia Fischer,23.43,P,r,Firma3,Standort B,Standort D
+12,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Lukas Wagner,72.65,P,r,Firma3,Standort E,Standort D
+13,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,23.58,P,r,Firma2,Standort D,Standort E
+13,Bestellung aufnehmen,2024-01-19 19:56:15,Sophia Bauer,53.39,P,r,Firma1,Standort A,Standort B
+13,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Leon Zimmermann,55.75,P,r,Firma5,Standort D,Standort A
+13,Teilenummern werden gebildet,2024-01-19 22:56:15,Max Müller,35.48,P,r,Firma5,Standort C,Standort D
+13,Bestellung wird eingefroren,2024-01-20 01:56:15,Leon Zimmermann,18.85,P,r,Firma1,Standort B,Standort B
+13,Teile werden bereitgestellt,2024-01-20 02:56:15,Emma Hoffmann,87.34,P,r,Firma1,Standort B,Standort C
+13,Karosserie wird gebaut,2024-01-20 05:56:15,Niklas Weber,86.64,P,r,Firma4,Standort A,Standort E
+13,Lackierung erfolgt,2024-01-20 06:56:15,Mia Fischer,52.31,P,r,Firma1,Standort C,Standort C
+13,Montage,2024-01-20 07:56:15,Emma Hoffmann,36.91,P,r,Firma2,Standort B,Standort A
+13,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Sophia Bauer,34.04,P,r,Firma3,Standort C,Standort E
+13,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Sophia Bauer,85.75,P,r,Firma1,Standort E,Standort D
+13,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Sophia Bauer,76.89,P,r,Firma5,Standort C,Standort D
+14,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,65.43,P,r,Firma5,Standort E,Standort B
+14,Bestellung aufnehmen,2024-01-19 19:56:15,Leon Zimmermann,31.94,P,r,Firma4,Standort B,Standort B
+14,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Julia Schneider,64.1,P,r,Firma3,Standort D,Standort B
+14,Teilenummern werden gebildet,2024-01-19 21:56:15,Mia Fischer,49.37,P,r,Firma4,Standort E,Standort E
+14,Bestellung wird eingefroren,2024-01-19 22:56:15,Emma Hoffmann,73.75,P,r,Firma1,Standort A,Standort C
+14,Teile werden bereitgestellt,2024-01-19 23:56:15,Emma Hoffmann,95.68,P,r,Firma3,Standort B,Standort C
+14,Karosserie wird gebaut,2024-01-20 02:56:15,Sophia Bauer,22.11,P,r,Firma3,Standort B,Standort A
+14,Lackierung erfolgt,2024-01-20 03:56:15,Leon Zimmermann,69.97,P,r,Firma5,Standort D,Standort C
+14,Montage,2024-01-20 05:56:15,Julia Schneider,96.32,P,r,Firma4,Standort E,Standort A
+14,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Anna Schmidt,71.2,P,r,Firma4,Standort C,Standort D
+14,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Max Müller,19.32,P,r,Firma5,Standort B,Standort D
+14,Produktionsnummer wird eingesteuert,2024-01-20 13:56:15,Julia Schneider,24.87,P,r,Firma3,Standort E,Standort A
+15,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,51.54,P,r,Firma5,Standort D,Standort C
+15,Bestellung aufnehmen,2024-01-19 19:56:15,Max Müller,44.05,P,r,Firma4,Standort C,Standort A
+15,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Mia Fischer,38.04,P,r,Firma1,Standort C,Standort E
+15,Teilenummern werden gebildet,2024-01-19 22:56:15,Niklas Weber,95.92,P,r,Firma3,Standort C,Standort E
+15,Bestellung wird eingefroren,2024-01-19 23:56:15,Lukas Wagner,83.06,P,r,Firma3,Standort A,Standort D
+15,Teile werden bereitgestellt,2024-01-20 01:56:15,Lukas Wagner,79.87,P,r,Firma5,Standort B,Standort B
+15,Karosserie wird gebaut,2024-01-20 02:56:15,Anna Schmidt,12.96,P,r,Firma3,Standort A,Standort B
+15,Lackierung erfolgt,2024-01-20 04:56:15,Felix Schröder,76.3,P,r,Firma4,Standort B,Standort D
+15,Montage,2024-01-20 05:56:15,Julia Schneider,35.97,P,r,Firma5,Standort E,Standort D
+15,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Leon Zimmermann,60.22,P,r,Firma2,Standort C,Standort C
+15,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Niklas Weber,88.52,P,r,Firma2,Standort E,Standort C
+15,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Lukas Wagner,45.83,P,r,Firma2,Standort E,Standort E
+16,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,54.13,P,r,Firma4,Standort A,Standort C
+16,Bestellung aufnehmen,2024-01-19 17:56:15,Anna Schmidt,80.59,P,r,Firma3,Standort C,Standort A
+16,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Felix Schröder,42.19,P,r,Firma1,Standort C,Standort E
+16,Teilenummern werden gebildet,2024-01-19 23:56:15,Sophia Bauer,99.84,P,r,Firma4,Standort D,Standort C
+16,Bestellung wird eingefroren,2024-01-20 02:56:15,Julia Schneider,99.42,P,r,Firma5,Standort D,Standort E
+16,Teile werden bereitgestellt,2024-01-20 03:56:15,Anna Schmidt,10.82,P,r,Firma2,Standort B,Standort A
+16,Karosserie wird gebaut,2024-01-20 06:56:15,Max Müller,36.98,P,r,Firma5,Standort E,Standort A
+16,Lackierung erfolgt,2024-01-20 08:56:15,Julia Schneider,84.64,P,r,Firma1,Standort C,Standort D
+16,Montage,2024-01-20 10:56:15,Leon Zimmermann,41.23,P,r,Firma3,Standort D,Standort C
+16,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Lukas Wagner,14.47,P,r,Firma3,Standort A,Standort D
+16,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Emma Hoffmann,56.47,P,r,Firma4,Standort B,Standort B
+16,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Max Müller,48.18,P,r,Firma1,Standort C,Standort D
+17,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,83.65,P,r,Firma3,Standort E,Standort A
+17,Bestellung aufnehmen,2024-01-19 17:56:15,Felix Schröder,27.26,P,r,Firma2,Standort D,Standort C
+17,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Anna Schmidt,65.36,P,r,Firma4,Standort C,Standort B
+17,Teilenummern werden gebildet,2024-01-19 21:56:15,Felix Schröder,30.9,P,r,Firma1,Standort E,Standort A
+17,Bestellung wird eingefroren,2024-01-19 23:56:15,Anna Schmidt,39.19,P,r,Firma1,Standort C,Standort C
+17,Teile werden bereitgestellt,2024-01-20 01:56:15,Anna Schmidt,59.92,P,r,Firma5,Standort A,Standort C
+17,Karosserie wird gebaut,2024-01-20 04:56:15,Niklas Weber,27.52,P,r,Firma1,Standort E,Standort C
+17,Lackierung erfolgt,2024-01-20 06:56:15,Leon Zimmermann,46.2,P,r,Firma1,Standort A,Standort A
+17,Montage,2024-01-20 07:56:15,Julia Schneider,68.77,P,r,Firma1,Standort C,Standort B
+17,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Lukas Wagner,23.29,P,r,Firma3,Standort C,Standort B
+17,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Mia Fischer,21.25,P,r,Firma4,Standort C,Standort E
+17,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Leon Zimmermann,37.4,P,r,Firma5,Standort B,Standort B
+18,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,76.26,P,r,Firma4,Standort C,Standort C
+18,Bestellung aufnehmen,2024-01-19 17:56:15,Emma Hoffmann,96.64,P,r,Firma1,Standort C,Standort E
+18,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Anna Schmidt,24.5,P,r,Firma5,Standort D,Standort B
+18,Teilenummern werden gebildet,2024-01-19 19:56:15,Max Müller,14.5,P,r,Firma3,Standort A,Standort B
+18,Bestellung wird eingefroren,2024-01-19 20:56:15,Leon Zimmermann,71.72,P,r,Firma1,Standort C,Standort C
+18,Teile werden bereitgestellt,2024-01-19 21:56:15,Anna Schmidt,47.98,P,r,Firma1,Standort E,Standort A
+18,Karosserie wird gebaut,2024-01-19 23:56:15,Sophia Bauer,60.14,P,r,Firma3,Standort A,Standort D
+18,Lackierung erfolgt,2024-01-20 00:56:15,Anna Schmidt,24.69,P,r,Firma4,Standort B,Standort A
+18,Montage,2024-01-20 03:56:15,Max Müller,61.04,P,r,Firma1,Standort D,Standort B
+18,Produktions-Perlenkette wird gebildet,2024-01-20 04:56:15,Leon Zimmermann,78.84,P,r,Firma5,Standort C,Standort A
+18,Lieferketten im Werk werden gebildet ,2024-01-20 07:56:15,Emma Hoffmann,45.59,P,r,Firma3,Standort E,Standort D
+18,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Julia Schneider,87.39,P,r,Firma1,Standort B,Standort C
+19,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,97.97,P,r,Firma5,Standort C,Standort E
+19,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,61.36,P,r,Firma1,Standort B,Standort D
+19,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Mia Fischer,79.85,P,r,Firma4,Standort A,Standort D
+19,Teilenummern werden gebildet,2024-01-19 23:56:15,Felix Schröder,86.71,P,r,Firma1,Standort B,Standort D
+19,Bestellung wird eingefroren,2024-01-20 00:56:15,Max Müller,88.96,P,r,Firma4,Standort E,Standort D
+19,Teile werden bereitgestellt,2024-01-20 03:56:15,Julia Schneider,34.08,P,r,Firma4,Standort A,Standort A
+19,Karosserie wird gebaut,2024-01-20 06:56:15,Max Müller,33.04,P,r,Firma5,Standort D,Standort C
+19,Lackierung erfolgt,2024-01-20 08:56:15,Emma Hoffmann,89.39,P,r,Firma2,Standort B,Standort A
+19,Montage,2024-01-20 09:56:15,Felix Schröder,37.75,P,r,Firma4,Standort B,Standort C
+19,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Leon Zimmermann,39.62,P,r,Firma3,Standort E,Standort B
+19,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Lukas Wagner,84.77,P,r,Firma1,Standort B,Standort D
+19,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Julia Schneider,23.79,P,r,Firma2,Standort C,Standort B
+20,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,10.09,P,r,Firma4,Standort C,Standort B
+20,Bestellung aufnehmen,2024-01-19 17:56:15,Julia Schneider,53.29,P,r,Firma4,Standort A,Standort C
+20,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Max Müller,17.24,P,r,Firma1,Standort E,Standort D
+20,Teilenummern werden gebildet,2024-01-19 19:56:15,Mia Fischer,69.42,P,r,Firma3,Standort E,Standort D
+20,Bestellung wird eingefroren,2024-01-19 21:56:15,Lukas Wagner,13.66,P,r,Firma5,Standort D,Standort D
+20,Teile werden bereitgestellt,2024-01-19 22:56:15,Mia Fischer,81.28,P,r,Firma2,Standort D,Standort C
+20,Karosserie wird gebaut,2024-01-20 00:56:15,Emma Hoffmann,69.36,P,r,Firma2,Standort E,Standort E
+20,Lackierung erfolgt,2024-01-20 01:56:15,Anna Schmidt,47.2,P,r,Firma2,Standort E,Standort E
+20,Montage,2024-01-20 04:56:15,Mia Fischer,89.08,P,r,Firma2,Standort D,Standort D
+20,Produktions-Perlenkette wird gebildet,2024-01-20 05:56:15,Lukas Wagner,71.78,P,r,Firma1,Standort E,Standort E
+20,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Felix Schröder,23.91,P,r,Firma5,Standort C,Standort E
+20,Produktionsnummer wird eingesteuert,2024-01-20 09:56:15,Anna Schmidt,73.13,P,r,Firma5,Standort C,Standort A
+21,Auto wird versendet,2024-01-19 16:56:15,Max Müller,96.22,P,r,Firma5,Standort E,Standort B
+21,Bestellung aufnehmen,2024-01-19 17:56:15,Sophia Bauer,29.46,P,r,Firma4,Standort A,Standort E
+21,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Leon Zimmermann,90.9,P,r,Firma5,Standort B,Standort B
+21,Teilenummern werden gebildet,2024-01-19 21:56:15,Anna Schmidt,55.16,P,r,Firma3,Standort E,Standort B
+21,Bestellung wird eingefroren,2024-01-20 00:56:15,Lukas Wagner,89.08,P,r,Firma5,Standort A,Standort E
+21,Teile werden bereitgestellt,2024-01-20 01:56:15,Emma Hoffmann,92.68,P,r,Firma2,Standort D,Standort C
+21,Karosserie wird gebaut,2024-01-20 03:56:15,Anna Schmidt,15.78,P,r,Firma4,Standort A,Standort A
+21,Lackierung erfolgt,2024-01-20 06:56:15,Mia Fischer,69.59,P,r,Firma3,Standort E,Standort E
+21,Montage,2024-01-20 09:56:15,Mia Fischer,80.53,P,r,Firma4,Standort D,Standort E
+21,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Felix Schröder,88.54,P,r,Firma1,Standort E,Standort E
+21,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Emma Hoffmann,99.23,P,r,Firma1,Standort E,Standort D
+21,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Sophia Bauer,64.41,P,r,Firma3,Standort A,Standort C
+22,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,84.09,P,r,Firma5,Standort B,Standort E
+22,Bestellung aufnehmen,2024-01-19 18:56:15,Emma Hoffmann,25.82,P,r,Firma4,Standort A,Standort A
+22,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Niklas Weber,10.16,P,r,Firma1,Standort B,Standort E
+22,Teilenummern werden gebildet,2024-01-19 22:56:15,Mia Fischer,95.73,P,r,Firma1,Standort E,Standort B
+22,Bestellung wird eingefroren,2024-01-20 01:56:15,Mia Fischer,54.4,P,r,Firma5,Standort B,Standort D
+22,Teile werden bereitgestellt,2024-01-20 02:56:15,Felix Schröder,90.15,P,r,Firma4,Standort E,Standort C
+22,Karosserie wird gebaut,2024-01-20 03:56:15,Lukas Wagner,67.35,P,r,Firma2,Standort A,Standort E
+22,Lackierung erfolgt,2024-01-20 04:56:15,Felix Schröder,83.23,P,r,Firma1,Standort E,Standort E
+22,Montage,2024-01-20 05:56:15,Sophia Bauer,22.76,P,r,Firma1,Standort C,Standort A
+22,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Niklas Weber,93.32,P,r,Firma1,Standort B,Standort B
+22,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Sophia Bauer,36.9,P,r,Firma2,Standort B,Standort A
+22,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Niklas Weber,72.78,P,r,Firma4,Standort E,Standort B
+23,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,38.28,P,r,Firma3,Standort B,Standort C
+23,Bestellung aufnehmen,2024-01-19 17:56:15,Felix Schröder,35.66,P,r,Firma4,Standort B,Standort D
+23,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,73.76,P,r,Firma5,Standort D,Standort D
+23,Teilenummern werden gebildet,2024-01-19 23:56:15,Julia Schneider,62.21,P,r,Firma2,Standort D,Standort B
+23,Bestellung wird eingefroren,2024-01-20 01:56:15,Max Müller,45.29,P,r,Firma2,Standort E,Standort B
+23,Teile werden bereitgestellt,2024-01-20 02:56:15,Felix Schröder,46.49,P,r,Firma3,Standort C,Standort D
+23,Karosserie wird gebaut,2024-01-20 04:56:15,Mia Fischer,21.96,P,r,Firma3,Standort E,Standort D
+23,Lackierung erfolgt,2024-01-20 07:56:15,Lukas Wagner,80.31,P,r,Firma4,Standort C,Standort A
+23,Montage,2024-01-20 10:56:15,Leon Zimmermann,39.08,P,r,Firma2,Standort B,Standort B
+23,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Max Müller,80.78,P,r,Firma1,Standort B,Standort B
+23,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Mia Fischer,12.6,P,r,Firma4,Standort A,Standort E
+23,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Lukas Wagner,69.59,P,r,Firma4,Standort B,Standort C
+24,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,32.94,P,r,Firma2,Standort D,Standort E
+24,Bestellung aufnehmen,2024-01-19 18:56:15,Anna Schmidt,41.43,P,r,Firma4,Standort C,Standort D
+24,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Leon Zimmermann,78.11,P,r,Firma2,Standort E,Standort E
+24,Teilenummern werden gebildet,2024-01-20 00:56:15,Lukas Wagner,36.72,P,r,Firma4,Standort A,Standort D
+24,Bestellung wird eingefroren,2024-01-20 03:56:15,Felix Schröder,24.99,P,r,Firma2,Standort A,Standort E
+24,Teile werden bereitgestellt,2024-01-20 04:56:15,Niklas Weber,43.18,P,r,Firma2,Standort C,Standort B
+24,Karosserie wird gebaut,2024-01-20 06:56:15,Felix Schröder,82.12,P,r,Firma5,Standort C,Standort A
+24,Lackierung erfolgt,2024-01-20 08:56:15,Emma Hoffmann,67.27,P,r,Firma1,Standort B,Standort C
+24,Montage,2024-01-20 09:56:15,Leon Zimmermann,72.07,P,r,Firma5,Standort C,Standort A
+24,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Niklas Weber,51.69,P,r,Firma4,Standort A,Standort B
+24,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Leon Zimmermann,39.36,P,r,Firma3,Standort D,Standort C
+24,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Mia Fischer,22.32,P,r,Firma3,Standort D,Standort A
+25,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,29.42,P,r,Firma2,Standort D,Standort D
+25,Bestellung aufnehmen,2024-01-19 17:56:15,Mia Fischer,36.97,P,r,Firma4,Standort E,Standort A
+25,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Sophia Bauer,56.5,P,r,Firma2,Standort C,Standort A
+25,Teilenummern werden gebildet,2024-01-19 22:56:15,Niklas Weber,64.89,P,r,Firma1,Standort D,Standort B
+25,Bestellung wird eingefroren,2024-01-19 23:56:15,Leon Zimmermann,26.9,P,r,Firma2,Standort D,Standort A
+25,Teile werden bereitgestellt,2024-01-20 00:56:15,Sophia Bauer,23.32,P,r,Firma3,Standort D,Standort E
+25,Karosserie wird gebaut,2024-01-20 03:56:15,Emma Hoffmann,31.33,P,r,Firma3,Standort A,Standort E
+25,Lackierung erfolgt,2024-01-20 04:56:15,Lukas Wagner,29.85,P,r,Firma4,Standort E,Standort C
+25,Montage,2024-01-20 07:56:15,Anna Schmidt,56.91,P,r,Firma1,Standort A,Standort E
+25,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Niklas Weber,59.02,P,r,Firma3,Standort C,Standort D
+25,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Mia Fischer,50.08,P,r,Firma1,Standort D,Standort B
+25,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Anna Schmidt,80.21,P,r,Firma4,Standort B,Standort B
+26,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,25.77,P,r,Firma5,Standort C,Standort C
+26,Bestellung aufnehmen,2024-01-19 18:56:15,Emma Hoffmann,29.34,P,r,Firma4,Standort A,Standort D
+26,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Felix Schröder,24.2,P,r,Firma2,Standort B,Standort E
+26,Teilenummern werden gebildet,2024-01-19 22:56:15,Emma Hoffmann,59.59,P,r,Firma1,Standort A,Standort C
+26,Bestellung wird eingefroren,2024-01-20 01:56:15,Emma Hoffmann,66.18,P,r,Firma2,Standort E,Standort D
+26,Teile werden bereitgestellt,2024-01-20 04:56:15,Sophia Bauer,87.96,P,r,Firma4,Standort D,Standort C
+26,Karosserie wird gebaut,2024-01-20 07:56:15,Emma Hoffmann,88.05,P,r,Firma2,Standort E,Standort D
+26,Lackierung erfolgt,2024-01-20 08:56:15,Felix Schröder,40.81,P,r,Firma3,Standort E,Standort D
+26,Montage,2024-01-20 10:56:15,Felix Schröder,11.8,P,r,Firma2,Standort B,Standort A
+26,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Sophia Bauer,84.44,P,r,Firma4,Standort D,Standort C
+26,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Mia Fischer,81.32,P,r,Firma2,Standort A,Standort E
+26,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Anna Schmidt,21.7,P,r,Firma5,Standort B,Standort A
+27,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,19.34,P,r,Firma5,Standort D,Standort B
+27,Bestellung aufnehmen,2024-01-19 19:56:15,Lukas Wagner,28.23,P,r,Firma4,Standort C,Standort A
+27,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Niklas Weber,89.16,P,r,Firma3,Standort B,Standort D
+27,Teilenummern werden gebildet,2024-01-19 22:56:15,Julia Schneider,68.29,P,r,Firma5,Standort D,Standort B
+27,Bestellung wird eingefroren,2024-01-19 23:56:15,Mia Fischer,15.14,P,r,Firma5,Standort C,Standort D
+27,Teile werden bereitgestellt,2024-01-20 00:56:15,Niklas Weber,67.44,P,r,Firma4,Standort B,Standort C
+27,Karosserie wird gebaut,2024-01-20 02:56:15,Niklas Weber,97.21,P,r,Firma2,Standort A,Standort D
+27,Lackierung erfolgt,2024-01-20 04:56:15,Niklas Weber,37.56,P,r,Firma4,Standort C,Standort D
+27,Montage,2024-01-20 05:56:15,Julia Schneider,13.72,P,r,Firma2,Standort C,Standort B
+27,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Julia Schneider,17.54,P,r,Firma5,Standort E,Standort E
+27,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Max Müller,93.36,P,r,Firma3,Standort A,Standort E
+27,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Max Müller,97.45,P,r,Firma2,Standort E,Standort A
+28,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,43.04,P,r,Firma1,Standort C,Standort B
+28,Bestellung aufnehmen,2024-01-19 18:56:15,Emma Hoffmann,16.19,P,r,Firma1,Standort C,Standort D
+28,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Anna Schmidt,67.6,P,r,Firma2,Standort E,Standort E
+28,Teilenummern werden gebildet,2024-01-19 22:56:15,Max Müller,48.04,P,r,Firma3,Standort A,Standort D
+28,Bestellung wird eingefroren,2024-01-20 01:56:15,Leon Zimmermann,29.48,P,r,Firma5,Standort A,Standort E
+28,Teile werden bereitgestellt,2024-01-20 04:56:15,Max Müller,47.58,P,r,Firma5,Standort D,Standort E
+28,Karosserie wird gebaut,2024-01-20 05:56:15,Anna Schmidt,37.21,P,r,Firma5,Standort A,Standort B
+28,Lackierung erfolgt,2024-01-20 08:56:15,Max Müller,66.01,P,r,Firma2,Standort C,Standort D
+28,Montage,2024-01-20 11:56:15,Felix Schröder,87.68,P,r,Firma3,Standort C,Standort C
+28,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Felix Schröder,45.3,P,r,Firma5,Standort D,Standort B
+28,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Felix Schröder,52.05,P,r,Firma3,Standort A,Standort A
+28,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Leon Zimmermann,19.63,P,r,Firma1,Standort C,Standort C
+29,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,32.57,P,r,Firma1,Standort C,Standort E
+29,Bestellung aufnehmen,2024-01-19 19:56:15,Sophia Bauer,85.18,P,r,Firma5,Standort A,Standort C
+29,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Sophia Bauer,27.97,P,r,Firma1,Standort B,Standort C
+29,Teilenummern werden gebildet,2024-01-19 22:56:15,Max Müller,20.06,P,r,Firma2,Standort C,Standort E
+29,Bestellung wird eingefroren,2024-01-19 23:56:15,Felix Schröder,58.61,P,r,Firma1,Standort E,Standort A
+29,Teile werden bereitgestellt,2024-01-20 01:56:15,Mia Fischer,30.62,P,r,Firma5,Standort A,Standort C
+29,Karosserie wird gebaut,2024-01-20 03:56:15,Max Müller,53.8,P,r,Firma2,Standort E,Standort B
+29,Lackierung erfolgt,2024-01-20 05:56:15,Sophia Bauer,27.86,P,r,Firma2,Standort D,Standort A
+29,Montage,2024-01-20 08:56:15,Felix Schröder,13.17,P,r,Firma5,Standort E,Standort A
+29,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Max Müller,55.07,P,r,Firma4,Standort C,Standort E
+29,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Felix Schröder,11.51,P,r,Firma5,Standort D,Standort A
+29,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Mia Fischer,34.02,P,r,Firma4,Standort A,Standort E
+30,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,87.48,P,r,Firma1,Standort D,Standort B
+30,Bestellung aufnehmen,2024-01-19 18:56:15,Mia Fischer,74.7,P,r,Firma2,Standort D,Standort B
+30,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Leon Zimmermann,44.86,P,r,Firma5,Standort E,Standort D
+30,Teilenummern werden gebildet,2024-01-20 00:56:15,Lukas Wagner,77.87,P,r,Firma5,Standort B,Standort C
+30,Bestellung wird eingefroren,2024-01-20 03:56:15,Niklas Weber,94.14,P,r,Firma2,Standort C,Standort A
+30,Teile werden bereitgestellt,2024-01-20 05:56:15,Leon Zimmermann,23.9,P,r,Firma3,Standort E,Standort A
+30,Karosserie wird gebaut,2024-01-20 06:56:15,Sophia Bauer,69.73,P,r,Firma1,Standort D,Standort B
+30,Lackierung erfolgt,2024-01-20 09:56:15,Julia Schneider,85.96,P,r,Firma5,Standort C,Standort D
+30,Montage,2024-01-20 10:56:15,Emma Hoffmann,46.85,P,r,Firma2,Standort C,Standort D
+30,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Leon Zimmermann,10.76,P,r,Firma2,Standort D,Standort D
+30,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Anna Schmidt,23.94,P,r,Firma2,Standort D,Standort E
+30,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Max Müller,66.5,P,r,Firma5,Standort C,Standort A
+31,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,94.02,P,r,Firma2,Standort C,Standort D
+31,Bestellung aufnehmen,2024-01-19 18:56:15,Emma Hoffmann,93.59,P,r,Firma4,Standort B,Standort D
+31,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Emma Hoffmann,22.83,P,r,Firma1,Standort A,Standort B
+31,Teilenummern werden gebildet,2024-01-19 23:56:15,Emma Hoffmann,75.54,P,r,Firma1,Standort B,Standort D
+31,Bestellung wird eingefroren,2024-01-20 02:56:15,Max Müller,62.79,P,r,Firma3,Standort C,Standort A
+31,Teile werden bereitgestellt,2024-01-20 03:56:15,Julia Schneider,89.95,P,r,Firma1,Standort D,Standort E
+31,Karosserie wird gebaut,2024-01-20 06:56:15,Sophia Bauer,30.53,P,r,Firma4,Standort D,Standort B
+31,Lackierung erfolgt,2024-01-20 08:56:15,Felix Schröder,96.4,P,r,Firma3,Standort E,Standort A
+31,Montage,2024-01-20 09:56:15,Julia Schneider,92.25,P,r,Firma2,Standort A,Standort A
+31,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Felix Schröder,34.88,P,r,Firma3,Standort A,Standort B
+31,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Emma Hoffmann,22.07,P,r,Firma4,Standort A,Standort E
+31,Produktionsnummer wird eingesteuert,2024-01-20 13:56:15,Leon Zimmermann,17.91,P,r,Firma4,Standort B,Standort C
+32,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,34.6,P,r,Firma5,Standort D,Standort C
+32,Bestellung aufnehmen,2024-01-19 19:56:15,Felix Schröder,24.62,P,r,Firma1,Standort B,Standort D
+32,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Anna Schmidt,13.23,P,r,Firma3,Standort E,Standort D
+32,Teilenummern werden gebildet,2024-01-19 22:56:15,Niklas Weber,80.56,P,r,Firma2,Standort C,Standort A
+32,Bestellung wird eingefroren,2024-01-20 01:56:15,Felix Schröder,21.27,P,r,Firma2,Standort D,Standort E
+32,Teile werden bereitgestellt,2024-01-20 04:56:15,Anna Schmidt,46.53,P,r,Firma2,Standort B,Standort C
+32,Karosserie wird gebaut,2024-01-20 07:56:15,Lukas Wagner,60.87,P,r,Firma3,Standort D,Standort B
+32,Lackierung erfolgt,2024-01-20 08:56:15,Felix Schröder,65.66,P,r,Firma5,Standort E,Standort C
+32,Montage,2024-01-20 10:56:15,Mia Fischer,36.08,P,r,Firma4,Standort C,Standort B
+32,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Max Müller,69.76,P,r,Firma3,Standort B,Standort E
+32,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Lukas Wagner,78.62,P,r,Firma1,Standort C,Standort A
+32,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Sophia Bauer,76.76,P,r,Firma2,Standort A,Standort D
+33,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,61.41,P,r,Firma4,Standort C,Standort D
+33,Bestellung aufnehmen,2024-01-19 18:56:15,Julia Schneider,14.68,P,r,Firma3,Standort A,Standort A
+33,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Felix Schröder,95.14,P,r,Firma1,Standort A,Standort C
+33,Teilenummern werden gebildet,2024-01-19 21:56:15,Lukas Wagner,82.89,P,r,Firma5,Standort C,Standort C
+33,Bestellung wird eingefroren,2024-01-19 23:56:15,Julia Schneider,77.61,P,r,Firma2,Standort E,Standort E
+33,Teile werden bereitgestellt,2024-01-20 00:56:15,Lukas Wagner,51.56,P,r,Firma4,Standort B,Standort C
+33,Karosserie wird gebaut,2024-01-20 01:56:15,Emma Hoffmann,22.69,P,r,Firma2,Standort B,Standort E
+33,Lackierung erfolgt,2024-01-20 04:56:15,Mia Fischer,73.52,P,r,Firma4,Standort D,Standort B
+33,Montage,2024-01-20 07:56:15,Sophia Bauer,75.44,P,r,Firma4,Standort A,Standort B
+33,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Mia Fischer,73.37,P,r,Firma4,Standort A,Standort C
+33,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Emma Hoffmann,42.2,P,r,Firma4,Standort A,Standort C
+33,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Felix Schröder,35.37,P,r,Firma2,Standort C,Standort E
+34,Auto wird versendet,2024-01-19 16:56:15,Felix Schröder,75.31,P,r,Firma5,Standort E,Standort B
+34,Bestellung aufnehmen,2024-01-19 18:56:15,Emma Hoffmann,27.51,P,r,Firma3,Standort B,Standort A
+34,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Emma Hoffmann,34.57,P,r,Firma4,Standort E,Standort B
+34,Teilenummern werden gebildet,2024-01-19 20:56:15,Julia Schneider,17.63,P,r,Firma2,Standort A,Standort C
+34,Bestellung wird eingefroren,2024-01-19 23:56:15,Leon Zimmermann,11.16,P,r,Firma4,Standort C,Standort A
+34,Teile werden bereitgestellt,2024-01-20 00:56:15,Leon Zimmermann,86.55,P,r,Firma4,Standort B,Standort B
+34,Karosserie wird gebaut,2024-01-20 01:56:15,Felix Schröder,37.04,P,r,Firma4,Standort A,Standort A
+34,Lackierung erfolgt,2024-01-20 03:56:15,Leon Zimmermann,34.42,P,r,Firma3,Standort E,Standort B
+34,Montage,2024-01-20 04:56:15,Sophia Bauer,63.42,P,r,Firma4,Standort E,Standort A
+34,Produktions-Perlenkette wird gebildet,2024-01-20 06:56:15,Mia Fischer,84.1,P,r,Firma5,Standort B,Standort A
+34,Lieferketten im Werk werden gebildet ,2024-01-20 07:56:15,Mia Fischer,20.26,P,r,Firma5,Standort B,Standort C
+34,Produktionsnummer wird eingesteuert,2024-01-20 09:56:15,Felix Schröder,24.08,P,r,Firma1,Standort E,Standort D
+35,Auto wird versendet,2024-01-19 16:56:15,Felix Schröder,15.97,P,r,Firma2,Standort A,Standort B
+35,Bestellung aufnehmen,2024-01-19 18:56:15,Niklas Weber,52.77,P,r,Firma4,Standort D,Standort D
+35,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Leon Zimmermann,59.33,P,r,Firma3,Standort C,Standort B
+35,Teilenummern werden gebildet,2024-01-20 00:56:15,Emma Hoffmann,26.62,P,r,Firma5,Standort C,Standort E
+35,Bestellung wird eingefroren,2024-01-20 02:56:15,Niklas Weber,27.8,P,r,Firma3,Standort D,Standort A
+35,Teile werden bereitgestellt,2024-01-20 04:56:15,Felix Schröder,80.49,P,r,Firma2,Standort C,Standort A
+35,Karosserie wird gebaut,2024-01-20 07:56:15,Sophia Bauer,21.48,P,r,Firma5,Standort A,Standort E
+35,Lackierung erfolgt,2024-01-20 09:56:15,Emma Hoffmann,97.83,P,r,Firma3,Standort E,Standort B
+35,Montage,2024-01-20 12:56:15,Sophia Bauer,85.76,P,r,Firma1,Standort A,Standort E
+35,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Max Müller,50.54,P,r,Firma5,Standort E,Standort B
+35,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Felix Schröder,59.18,P,r,Firma3,Standort C,Standort B
+35,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Felix Schröder,65.89,P,r,Firma2,Standort A,Standort A
+36,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,19.15,P,r,Firma5,Standort D,Standort B
+36,Bestellung aufnehmen,2024-01-19 17:56:15,Lukas Wagner,32.76,P,r,Firma1,Standort B,Standort B
+36,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Niklas Weber,88.58,P,r,Firma5,Standort A,Standort D
+36,Teilenummern werden gebildet,2024-01-19 22:56:15,Anna Schmidt,56.61,P,r,Firma3,Standort E,Standort A
+36,Bestellung wird eingefroren,2024-01-19 23:56:15,Felix Schröder,98.87,P,r,Firma2,Standort D,Standort C
+36,Teile werden bereitgestellt,2024-01-20 00:56:15,Leon Zimmermann,25.51,P,r,Firma2,Standort C,Standort E
+36,Karosserie wird gebaut,2024-01-20 03:56:15,Sophia Bauer,80.26,P,r,Firma5,Standort A,Standort C
+36,Lackierung erfolgt,2024-01-20 04:56:15,Sophia Bauer,49.8,P,r,Firma4,Standort D,Standort C
+36,Montage,2024-01-20 06:56:15,Leon Zimmermann,47.48,P,r,Firma2,Standort E,Standort E
+36,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Anna Schmidt,57.07,P,r,Firma2,Standort B,Standort A
+36,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Anna Schmidt,84.87,P,r,Firma5,Standort C,Standort D
+36,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Felix Schröder,51.45,P,r,Firma4,Standort B,Standort C
+37,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,67.63,P,r,Firma3,Standort D,Standort B
+37,Bestellung aufnehmen,2024-01-19 18:56:15,Julia Schneider,64.92,P,r,Firma1,Standort B,Standort D
+37,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Max Müller,94.59,P,r,Firma1,Standort C,Standort C
+37,Teilenummern werden gebildet,2024-01-19 22:56:15,Felix Schröder,79.69,P,r,Firma2,Standort A,Standort B
+37,Bestellung wird eingefroren,2024-01-20 00:56:15,Niklas Weber,11.79,P,r,Firma1,Standort C,Standort A
+37,Teile werden bereitgestellt,2024-01-20 01:56:15,Leon Zimmermann,84.92,P,r,Firma1,Standort A,Standort D
+37,Karosserie wird gebaut,2024-01-20 03:56:15,Emma Hoffmann,42.49,P,r,Firma3,Standort C,Standort C
+37,Lackierung erfolgt,2024-01-20 04:56:15,Emma Hoffmann,59.7,P,r,Firma4,Standort B,Standort D
+37,Montage,2024-01-20 06:56:15,Felix Schröder,84.45,P,r,Firma3,Standort E,Standort D
+37,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Sophia Bauer,57.38,P,r,Firma4,Standort A,Standort E
+37,Lieferketten im Werk werden gebildet ,2024-01-20 10:56:15,Julia Schneider,93.86,P,r,Firma2,Standort A,Standort E
+37,Produktionsnummer wird eingesteuert,2024-01-20 12:56:15,Anna Schmidt,90.83,P,r,Firma1,Standort A,Standort A
+38,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,42.07,P,r,Firma3,Standort C,Standort B
+38,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,40.98,P,r,Firma4,Standort E,Standort D
+38,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Julia Schneider,76.03,P,r,Firma3,Standort E,Standort B
+38,Teilenummern werden gebildet,2024-01-19 22:56:15,Lukas Wagner,75.47,P,r,Firma1,Standort B,Standort E
+38,Bestellung wird eingefroren,2024-01-20 01:56:15,Leon Zimmermann,72.05,P,r,Firma4,Standort A,Standort E
+38,Teile werden bereitgestellt,2024-01-20 02:56:15,Felix Schröder,61.54,P,r,Firma4,Standort E,Standort B
+38,Karosserie wird gebaut,2024-01-20 04:56:15,Julia Schneider,56.37,P,r,Firma4,Standort B,Standort A
+38,Lackierung erfolgt,2024-01-20 06:56:15,Julia Schneider,95.77,P,r,Firma3,Standort B,Standort B
+38,Montage,2024-01-20 08:56:15,Julia Schneider,85.12,P,r,Firma4,Standort D,Standort E
+38,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Mia Fischer,69.99,P,r,Firma2,Standort A,Standort B
+38,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Lukas Wagner,54.74,P,r,Firma5,Standort E,Standort E
+38,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Mia Fischer,54.92,P,r,Firma1,Standort D,Standort D
+39,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,60.59,P,r,Firma2,Standort D,Standort B
+39,Bestellung aufnehmen,2024-01-19 17:56:15,Niklas Weber,49.35,P,r,Firma2,Standort D,Standort D
+39,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Sophia Bauer,83.33,P,r,Firma1,Standort B,Standort B
+39,Teilenummern werden gebildet,2024-01-19 20:56:15,Felix Schröder,75.1,P,r,Firma1,Standort C,Standort E
+39,Bestellung wird eingefroren,2024-01-19 23:56:15,Felix Schröder,34.38,P,r,Firma2,Standort D,Standort A
+39,Teile werden bereitgestellt,2024-01-20 00:56:15,Felix Schröder,80.26,P,r,Firma3,Standort D,Standort B
+39,Karosserie wird gebaut,2024-01-20 01:56:15,Niklas Weber,73.33,P,r,Firma2,Standort A,Standort C
+39,Lackierung erfolgt,2024-01-20 03:56:15,Felix Schröder,26.69,P,r,Firma5,Standort C,Standort B
+39,Montage,2024-01-20 04:56:15,Mia Fischer,60.07,P,r,Firma1,Standort B,Standort E
+39,Produktions-Perlenkette wird gebildet,2024-01-20 06:56:15,Anna Schmidt,34.7,P,r,Firma5,Standort C,Standort E
+39,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Mia Fischer,67.65,P,r,Firma4,Standort B,Standort B
+39,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Julia Schneider,67.95,P,r,Firma2,Standort C,Standort A
+40,Auto wird versendet,2024-01-19 16:56:15,Felix Schröder,61.44,P,r,Firma3,Standort D,Standort A
+40,Bestellung aufnehmen,2024-01-19 17:56:15,Leon Zimmermann,18.37,P,r,Firma1,Standort E,Standort A
+40,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Emma Hoffmann,20.74,P,r,Firma4,Standort B,Standort A
+40,Teilenummern werden gebildet,2024-01-19 22:56:15,Leon Zimmermann,62.27,P,r,Firma4,Standort C,Standort A
+40,Bestellung wird eingefroren,2024-01-20 01:56:15,Anna Schmidt,24.37,P,r,Firma2,Standort B,Standort B
+40,Teile werden bereitgestellt,2024-01-20 02:56:15,Mia Fischer,52.68,P,r,Firma2,Standort B,Standort A
+40,Karosserie wird gebaut,2024-01-20 05:56:15,Anna Schmidt,48.71,P,r,Firma3,Standort D,Standort C
+40,Lackierung erfolgt,2024-01-20 06:56:15,Niklas Weber,71.81,P,r,Firma3,Standort E,Standort C
+40,Montage,2024-01-20 08:56:15,Emma Hoffmann,42.78,P,r,Firma1,Standort D,Standort D
+40,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Mia Fischer,78.9,P,r,Firma4,Standort C,Standort C
+40,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Mia Fischer,89.29,P,r,Firma3,Standort E,Standort A
+40,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Anna Schmidt,53.74,P,r,Firma2,Standort B,Standort C
+41,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,48.08,P,r,Firma2,Standort E,Standort E
+41,Bestellung aufnehmen,2024-01-19 17:56:15,Sophia Bauer,25.9,P,r,Firma2,Standort D,Standort D
+41,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Lukas Wagner,98.02,P,r,Firma4,Standort E,Standort C
+41,Teilenummern werden gebildet,2024-01-19 20:56:15,Leon Zimmermann,70.04,P,r,Firma3,Standort A,Standort D
+41,Bestellung wird eingefroren,2024-01-19 23:56:15,Mia Fischer,26.74,P,r,Firma2,Standort C,Standort A
+41,Teile werden bereitgestellt,2024-01-20 02:56:15,Sophia Bauer,31.18,P,r,Firma3,Standort E,Standort C
+41,Karosserie wird gebaut,2024-01-20 05:56:15,Lukas Wagner,44.22,P,r,Firma5,Standort D,Standort D
+41,Lackierung erfolgt,2024-01-20 06:56:15,Emma Hoffmann,46.96,P,r,Firma5,Standort A,Standort D
+41,Montage,2024-01-20 07:56:15,Anna Schmidt,97.65,P,r,Firma2,Standort C,Standort D
+41,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Emma Hoffmann,31.4,P,r,Firma2,Standort A,Standort B
+41,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Anna Schmidt,26.77,P,r,Firma4,Standort C,Standort B
+41,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Max Müller,92.1,P,r,Firma4,Standort C,Standort B
+42,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,78.42,P,r,Firma5,Standort A,Standort A
+42,Bestellung aufnehmen,2024-01-19 18:56:15,Julia Schneider,33.5,P,r,Firma5,Standort D,Standort C
+42,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Sophia Bauer,78.16,P,r,Firma5,Standort A,Standort B
+42,Teilenummern werden gebildet,2024-01-19 21:56:15,Emma Hoffmann,83.71,P,r,Firma1,Standort B,Standort A
+42,Bestellung wird eingefroren,2024-01-20 00:56:15,Max Müller,87.1,P,r,Firma1,Standort D,Standort B
+42,Teile werden bereitgestellt,2024-01-20 01:56:15,Felix Schröder,33.79,P,r,Firma1,Standort B,Standort D
+42,Karosserie wird gebaut,2024-01-20 02:56:15,Max Müller,80.48,P,r,Firma2,Standort E,Standort A
+42,Lackierung erfolgt,2024-01-20 05:56:15,Lukas Wagner,60.38,P,r,Firma4,Standort C,Standort A
+42,Montage,2024-01-20 08:56:15,Max Müller,50.65,P,r,Firma2,Standort B,Standort A
+42,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Max Müller,49.89,P,r,Firma2,Standort D,Standort C
+42,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Emma Hoffmann,31.74,P,r,Firma3,Standort A,Standort B
+42,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Julia Schneider,35.05,P,r,Firma5,Standort B,Standort E
+43,Auto wird versendet,2024-01-19 16:56:15,Max Müller,38.42,P,r,Firma2,Standort A,Standort C
+43,Bestellung aufnehmen,2024-01-19 17:56:15,Lukas Wagner,59.2,P,r,Firma4,Standort C,Standort D
+43,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Leon Zimmermann,32.26,P,r,Firma4,Standort B,Standort A
+43,Teilenummern werden gebildet,2024-01-19 21:56:15,Julia Schneider,85.2,P,r,Firma5,Standort B,Standort C
+43,Bestellung wird eingefroren,2024-01-19 22:56:15,Leon Zimmermann,48.68,P,r,Firma3,Standort B,Standort D
+43,Teile werden bereitgestellt,2024-01-20 01:56:15,Emma Hoffmann,75.36,P,r,Firma4,Standort E,Standort B
+43,Karosserie wird gebaut,2024-01-20 04:56:15,Max Müller,72.86,P,r,Firma3,Standort A,Standort A
+43,Lackierung erfolgt,2024-01-20 06:56:15,Anna Schmidt,48.71,P,r,Firma5,Standort B,Standort E
+43,Montage,2024-01-20 09:56:15,Leon Zimmermann,46.26,P,r,Firma1,Standort C,Standort C
+43,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Max Müller,54.04,P,r,Firma2,Standort C,Standort E
+43,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Leon Zimmermann,82.61,P,r,Firma4,Standort E,Standort D
+43,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Anna Schmidt,70.83,P,r,Firma5,Standort B,Standort C
+44,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,79.49,P,r,Firma2,Standort C,Standort C
+44,Bestellung aufnehmen,2024-01-19 17:56:15,Mia Fischer,41.93,P,r,Firma4,Standort A,Standort A
+44,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Mia Fischer,47.94,P,r,Firma3,Standort A,Standort E
+44,Teilenummern werden gebildet,2024-01-19 21:56:15,Anna Schmidt,35.42,P,r,Firma5,Standort E,Standort D
+44,Bestellung wird eingefroren,2024-01-19 23:56:15,Max Müller,71.39,P,r,Firma5,Standort C,Standort C
+44,Teile werden bereitgestellt,2024-01-20 01:56:15,Lukas Wagner,33.48,P,r,Firma2,Standort A,Standort B
+44,Karosserie wird gebaut,2024-01-20 02:56:15,Lukas Wagner,17.98,P,r,Firma3,Standort D,Standort A
+44,Lackierung erfolgt,2024-01-20 04:56:15,Lukas Wagner,74.78,P,r,Firma2,Standort A,Standort A
+44,Montage,2024-01-20 07:56:15,Lukas Wagner,24.63,P,r,Firma4,Standort C,Standort A
+44,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Leon Zimmermann,46.54,P,r,Firma5,Standort C,Standort D
+44,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Max Müller,43.2,P,r,Firma4,Standort D,Standort A
+44,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Leon Zimmermann,39.37,P,r,Firma3,Standort C,Standort D
+45,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,94.39,P,r,Firma2,Standort C,Standort D
+45,Bestellung aufnehmen,2024-01-19 19:56:15,Lukas Wagner,55.03,P,r,Firma1,Standort C,Standort C
+45,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Max Müller,46.49,P,r,Firma3,Standort D,Standort B
+45,Teilenummern werden gebildet,2024-01-19 22:56:15,Felix Schröder,39.22,P,r,Firma4,Standort D,Standort B
+45,Bestellung wird eingefroren,2024-01-20 00:56:15,Max Müller,15.61,P,r,Firma2,Standort D,Standort D
+45,Teile werden bereitgestellt,2024-01-20 01:56:15,Niklas Weber,38.77,P,r,Firma3,Standort A,Standort D
+45,Karosserie wird gebaut,2024-01-20 02:56:15,Lukas Wagner,32.04,P,r,Firma2,Standort D,Standort B
+45,Lackierung erfolgt,2024-01-20 05:56:15,Emma Hoffmann,37.34,P,r,Firma5,Standort B,Standort B
+45,Montage,2024-01-20 06:56:15,Emma Hoffmann,10.91,P,r,Firma5,Standort B,Standort A
+45,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Leon Zimmermann,10.63,P,r,Firma2,Standort D,Standort D
+45,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Felix Schröder,91.08,P,r,Firma2,Standort D,Standort A
+45,Produktionsnummer wird eingesteuert,2024-01-20 12:56:15,Lukas Wagner,13.31,P,r,Firma1,Standort E,Standort C
+46,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,16.55,P,r,Firma3,Standort C,Standort C
+46,Bestellung aufnehmen,2024-01-19 18:56:15,Julia Schneider,82.01,P,r,Firma5,Standort C,Standort C
+46,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Emma Hoffmann,37.27,P,r,Firma3,Standort D,Standort E
+46,Teilenummern werden gebildet,2024-01-19 20:56:15,Felix Schröder,18.79,P,r,Firma3,Standort B,Standort B
+46,Bestellung wird eingefroren,2024-01-19 22:56:15,Max Müller,38.93,P,r,Firma2,Standort D,Standort D
+46,Teile werden bereitgestellt,2024-01-20 01:56:15,Sophia Bauer,95.4,P,r,Firma4,Standort E,Standort A
+46,Karosserie wird gebaut,2024-01-20 03:56:15,Max Müller,81.74,P,r,Firma5,Standort D,Standort D
+46,Lackierung erfolgt,2024-01-20 06:56:15,Anna Schmidt,70.24,P,r,Firma4,Standort E,Standort A
+46,Montage,2024-01-20 09:56:15,Julia Schneider,18.73,P,r,Firma1,Standort A,Standort A
+46,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Niklas Weber,93.63,P,r,Firma4,Standort E,Standort C
+46,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Julia Schneider,52.71,P,r,Firma2,Standort A,Standort C
+46,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Mia Fischer,98.6,P,r,Firma2,Standort A,Standort E
+47,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,94.47,P,r,Firma4,Standort A,Standort A
+47,Bestellung aufnehmen,2024-01-19 18:56:15,Mia Fischer,12.31,P,r,Firma3,Standort C,Standort C
+47,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Julia Schneider,19.07,P,r,Firma5,Standort D,Standort D
+47,Teilenummern werden gebildet,2024-01-19 20:56:15,Leon Zimmermann,73.13,P,r,Firma2,Standort B,Standort A
+47,Bestellung wird eingefroren,2024-01-19 22:56:15,Anna Schmidt,30.17,P,r,Firma5,Standort C,Standort C
+47,Teile werden bereitgestellt,2024-01-20 01:56:15,Felix Schröder,32.15,P,r,Firma2,Standort D,Standort D
+47,Karosserie wird gebaut,2024-01-20 03:56:15,Niklas Weber,48.08,P,r,Firma4,Standort B,Standort A
+47,Lackierung erfolgt,2024-01-20 04:56:15,Sophia Bauer,15.59,P,r,Firma1,Standort B,Standort B
+47,Montage,2024-01-20 07:56:15,Leon Zimmermann,53.85,P,r,Firma4,Standort C,Standort E
+47,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Sophia Bauer,75.3,P,r,Firma4,Standort E,Standort A
+47,Lieferketten im Werk werden gebildet ,2024-01-20 10:56:15,Felix Schröder,69.43,P,r,Firma1,Standort A,Standort A
+47,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Felix Schröder,57.54,P,r,Firma3,Standort D,Standort A
+48,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,39.67,P,r,Firma4,Standort E,Standort B
+48,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,31.9,P,r,Firma3,Standort C,Standort D
+48,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Julia Schneider,66.21,P,r,Firma4,Standort B,Standort C
+48,Teilenummern werden gebildet,2024-01-19 22:56:15,Leon Zimmermann,80.03,P,r,Firma4,Standort B,Standort A
+48,Bestellung wird eingefroren,2024-01-19 23:56:15,Emma Hoffmann,76.5,P,r,Firma5,Standort E,Standort C
+48,Teile werden bereitgestellt,2024-01-20 00:56:15,Niklas Weber,95.72,P,r,Firma1,Standort C,Standort A
+48,Karosserie wird gebaut,2024-01-20 03:56:15,Niklas Weber,84.82,P,r,Firma1,Standort B,Standort C
+48,Lackierung erfolgt,2024-01-20 04:56:15,Felix Schröder,51.85,P,r,Firma3,Standort C,Standort A
+48,Montage,2024-01-20 06:56:15,Leon Zimmermann,60.48,P,r,Firma4,Standort E,Standort A
+48,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Felix Schröder,73.85,P,r,Firma3,Standort A,Standort C
+48,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Niklas Weber,85.23,P,r,Firma2,Standort A,Standort B
+48,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Lukas Wagner,24.87,P,r,Firma5,Standort D,Standort B
+49,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,90.19,P,r,Firma5,Standort E,Standort D
+49,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,29.28,P,r,Firma1,Standort A,Standort C
+49,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Julia Schneider,26.89,P,r,Firma3,Standort D,Standort C
+49,Teilenummern werden gebildet,2024-01-19 23:56:15,Emma Hoffmann,39.02,P,r,Firma2,Standort B,Standort E
+49,Bestellung wird eingefroren,2024-01-20 00:56:15,Felix Schröder,42.85,P,r,Firma2,Standort D,Standort E
+49,Teile werden bereitgestellt,2024-01-20 03:56:15,Julia Schneider,13.06,P,r,Firma3,Standort D,Standort C
+49,Karosserie wird gebaut,2024-01-20 05:56:15,Lukas Wagner,71.77,P,r,Firma5,Standort B,Standort A
+49,Lackierung erfolgt,2024-01-20 08:56:15,Max Müller,25.24,P,r,Firma2,Standort C,Standort E
+49,Montage,2024-01-20 09:56:15,Niklas Weber,18.63,P,r,Firma4,Standort B,Standort B
+49,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Mia Fischer,33.13,P,r,Firma5,Standort A,Standort C
+49,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Max Müller,45.25,P,r,Firma5,Standort E,Standort B
+49,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Sophia Bauer,16.49,P,r,Firma3,Standort E,Standort A
+50,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,54.19,P,r,Firma2,Standort D,Standort A
+50,Bestellung aufnehmen,2024-01-19 19:56:15,Anna Schmidt,53.83,P,r,Firma1,Standort C,Standort B
+50,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Sophia Bauer,48.73,P,r,Firma3,Standort C,Standort D
+50,Teilenummern werden gebildet,2024-01-19 23:56:15,Niklas Weber,88.8,P,r,Firma3,Standort D,Standort E
+50,Bestellung wird eingefroren,2024-01-20 01:56:15,Max Müller,34.01,P,r,Firma4,Standort A,Standort D
+50,Teile werden bereitgestellt,2024-01-20 04:56:15,Leon Zimmermann,64.61,P,r,Firma3,Standort C,Standort C
+50,Karosserie wird gebaut,2024-01-20 05:56:15,Mia Fischer,23.61,P,r,Firma5,Standort C,Standort E
+50,Lackierung erfolgt,2024-01-20 06:56:15,Emma Hoffmann,37.53,P,r,Firma4,Standort C,Standort A
+50,Montage,2024-01-20 09:56:15,Mia Fischer,28.53,P,r,Firma1,Standort D,Standort C
+50,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Max Müller,86.74,P,r,Firma4,Standort C,Standort C
+50,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Max Müller,58.82,P,r,Firma5,Standort E,Standort E
+50,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Niklas Weber,66.58,P,r,Firma4,Standort A,Standort D
+51,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,23.5,P,r,Firma5,Standort D,Standort D
+51,Bestellung aufnehmen,2024-01-19 18:56:15,Mia Fischer,89.37,P,r,Firma4,Standort B,Standort D
+51,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Julia Schneider,91.13,P,r,Firma1,Standort C,Standort D
+51,Teilenummern werden gebildet,2024-01-20 00:56:15,Max Müller,80.37,P,r,Firma4,Standort A,Standort C
+51,Bestellung wird eingefroren,2024-01-20 03:56:15,Felix Schröder,67.08,P,r,Firma3,Standort A,Standort C
+51,Teile werden bereitgestellt,2024-01-20 05:56:15,Sophia Bauer,33.05,P,r,Firma5,Standort E,Standort C
+51,Karosserie wird gebaut,2024-01-20 06:56:15,Sophia Bauer,10.06,P,r,Firma5,Standort A,Standort B
+51,Lackierung erfolgt,2024-01-20 09:56:15,Niklas Weber,95.54,P,r,Firma3,Standort E,Standort E
+51,Montage,2024-01-20 11:56:15,Anna Schmidt,36.64,P,r,Firma2,Standort D,Standort E
+51,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Max Müller,17.03,P,r,Firma4,Standort E,Standort C
+51,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Lukas Wagner,24.53,P,r,Firma5,Standort A,Standort C
+51,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Felix Schröder,95.48,P,r,Firma5,Standort E,Standort C
+52,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,31.84,P,r,Firma4,Standort E,Standort C
+52,Bestellung aufnehmen,2024-01-19 17:56:15,Niklas Weber,86.51,P,r,Firma1,Standort B,Standort D
+52,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Emma Hoffmann,86.48,P,r,Firma4,Standort C,Standort E
+52,Teilenummern werden gebildet,2024-01-19 22:56:15,Niklas Weber,21.05,P,r,Firma2,Standort E,Standort C
+52,Bestellung wird eingefroren,2024-01-19 23:56:15,Felix Schröder,87.43,P,r,Firma2,Standort E,Standort C
+52,Teile werden bereitgestellt,2024-01-20 02:56:15,Emma Hoffmann,15.63,P,r,Firma4,Standort E,Standort E
+52,Karosserie wird gebaut,2024-01-20 05:56:15,Max Müller,73.8,P,r,Firma5,Standort A,Standort E
+52,Lackierung erfolgt,2024-01-20 07:56:15,Niklas Weber,42.23,P,r,Firma4,Standort B,Standort D
+52,Montage,2024-01-20 10:56:15,Leon Zimmermann,72.51,P,r,Firma1,Standort B,Standort A
+52,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Julia Schneider,27.33,P,r,Firma5,Standort E,Standort B
+52,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Leon Zimmermann,21.32,P,r,Firma3,Standort A,Standort A
+52,Produktionsnummer wird eingesteuert,2024-01-20 19:56:15,Anna Schmidt,51.78,P,r,Firma4,Standort D,Standort D
+53,Auto wird versendet,2024-01-19 16:56:15,Max Müller,36.76,P,r,Firma4,Standort E,Standort E
+53,Bestellung aufnehmen,2024-01-19 17:56:15,Leon Zimmermann,60.63,P,r,Firma3,Standort A,Standort E
+53,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Lukas Wagner,97.14,P,r,Firma2,Standort B,Standort E
+53,Teilenummern werden gebildet,2024-01-19 20:56:15,Julia Schneider,33.27,P,r,Firma3,Standort A,Standort A
+53,Bestellung wird eingefroren,2024-01-19 22:56:15,Emma Hoffmann,70.47,P,r,Firma3,Standort A,Standort E
+53,Teile werden bereitgestellt,2024-01-20 00:56:15,Sophia Bauer,73.29,P,r,Firma5,Standort E,Standort C
+53,Karosserie wird gebaut,2024-01-20 02:56:15,Emma Hoffmann,17.97,P,r,Firma5,Standort E,Standort E
+53,Lackierung erfolgt,2024-01-20 03:56:15,Mia Fischer,23.12,P,r,Firma5,Standort E,Standort B
+53,Montage,2024-01-20 05:56:15,Leon Zimmermann,13.26,P,r,Firma1,Standort A,Standort B
+53,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Anna Schmidt,37.61,P,r,Firma1,Standort C,Standort A
+53,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Lukas Wagner,75.91,P,r,Firma1,Standort C,Standort E
+53,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Niklas Weber,61.91,P,r,Firma3,Standort D,Standort A
+54,Auto wird versendet,2024-01-19 16:56:15,Max Müller,62.78,P,r,Firma2,Standort D,Standort B
+54,Bestellung aufnehmen,2024-01-19 17:56:15,Lukas Wagner,15.38,P,r,Firma4,Standort A,Standort D
+54,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Felix Schröder,86.3,P,r,Firma1,Standort C,Standort E
+54,Teilenummern werden gebildet,2024-01-19 21:56:15,Anna Schmidt,99.41,P,r,Firma1,Standort E,Standort D
+54,Bestellung wird eingefroren,2024-01-20 00:56:15,Anna Schmidt,22.88,P,r,Firma3,Standort C,Standort D
+54,Teile werden bereitgestellt,2024-01-20 03:56:15,Niklas Weber,52.58,P,r,Firma5,Standort A,Standort A
+54,Karosserie wird gebaut,2024-01-20 04:56:15,Lukas Wagner,19.95,P,r,Firma1,Standort C,Standort D
+54,Lackierung erfolgt,2024-01-20 07:56:15,Leon Zimmermann,79.05,P,r,Firma5,Standort D,Standort A
+54,Montage,2024-01-20 09:56:15,Leon Zimmermann,25.78,P,r,Firma4,Standort D,Standort E
+54,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Anna Schmidt,99.04,P,r,Firma5,Standort B,Standort E
+54,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Felix Schröder,26.43,P,r,Firma4,Standort B,Standort E
+54,Produktionsnummer wird eingesteuert,2024-01-20 13:56:15,Mia Fischer,66.08,P,r,Firma5,Standort D,Standort C
+55,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,48.68,P,r,Firma2,Standort A,Standort E
+55,Bestellung aufnehmen,2024-01-19 19:56:15,Anna Schmidt,91.47,P,r,Firma5,Standort E,Standort A
+55,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Anna Schmidt,55.29,P,r,Firma5,Standort C,Standort E
+55,Teilenummern werden gebildet,2024-01-19 21:56:15,Mia Fischer,78.57,P,r,Firma5,Standort A,Standort E
+55,Bestellung wird eingefroren,2024-01-20 00:56:15,Niklas Weber,85.85,P,r,Firma3,Standort E,Standort C
+55,Teile werden bereitgestellt,2024-01-20 02:56:15,Mia Fischer,58.9,P,r,Firma2,Standort E,Standort E
+55,Karosserie wird gebaut,2024-01-20 03:56:15,Emma Hoffmann,17.6,P,r,Firma1,Standort E,Standort E
+55,Lackierung erfolgt,2024-01-20 04:56:15,Sophia Bauer,52.78,P,r,Firma2,Standort D,Standort D
+55,Montage,2024-01-20 05:56:15,Niklas Weber,91.08,P,r,Firma1,Standort C,Standort B
+55,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Emma Hoffmann,49.3,P,r,Firma3,Standort C,Standort A
+55,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Lukas Wagner,64.45,P,r,Firma1,Standort E,Standort D
+55,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Mia Fischer,21.19,P,r,Firma5,Standort A,Standort E
+56,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,46.44,P,r,Firma5,Standort A,Standort E
+56,Bestellung aufnehmen,2024-01-19 19:56:15,Max Müller,20.89,P,r,Firma1,Standort D,Standort D
+56,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Mia Fischer,48.71,P,r,Firma2,Standort B,Standort D
+56,Teilenummern werden gebildet,2024-01-19 21:56:15,Emma Hoffmann,89.66,P,r,Firma3,Standort C,Standort B
+56,Bestellung wird eingefroren,2024-01-19 22:56:15,Lukas Wagner,60.43,P,r,Firma1,Standort D,Standort D
+56,Teile werden bereitgestellt,2024-01-20 01:56:15,Emma Hoffmann,85.27,P,r,Firma3,Standort E,Standort A
+56,Karosserie wird gebaut,2024-01-20 02:56:15,Lukas Wagner,16.29,P,r,Firma2,Standort C,Standort B
+56,Lackierung erfolgt,2024-01-20 05:56:15,Mia Fischer,38.77,P,r,Firma1,Standort B,Standort B
+56,Montage,2024-01-20 08:56:15,Leon Zimmermann,54.02,P,r,Firma1,Standort A,Standort D
+56,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Julia Schneider,16.31,P,r,Firma1,Standort C,Standort A
+56,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Lukas Wagner,18.88,P,r,Firma5,Standort C,Standort A
+56,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Sophia Bauer,38.78,P,r,Firma5,Standort D,Standort D
+57,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,69.68,P,r,Firma3,Standort B,Standort E
+57,Bestellung aufnehmen,2024-01-19 19:56:15,Niklas Weber,33.86,P,r,Firma2,Standort E,Standort A
+57,Bestellung wird an Werk übergeben,2024-01-19 22:56:15,Julia Schneider,74.55,P,r,Firma3,Standort D,Standort C
+57,Teilenummern werden gebildet,2024-01-20 01:56:15,Sophia Bauer,69.8,P,r,Firma2,Standort D,Standort D
+57,Bestellung wird eingefroren,2024-01-20 04:56:15,Julia Schneider,42.53,P,r,Firma3,Standort A,Standort D
+57,Teile werden bereitgestellt,2024-01-20 06:56:15,Niklas Weber,13.11,P,r,Firma1,Standort B,Standort B
+57,Karosserie wird gebaut,2024-01-20 09:56:15,Niklas Weber,43.87,P,r,Firma5,Standort A,Standort C
+57,Lackierung erfolgt,2024-01-20 10:56:15,Max Müller,28.67,P,r,Firma2,Standort E,Standort A
+57,Montage,2024-01-20 11:56:15,Felix Schröder,95.32,P,r,Firma2,Standort E,Standort D
+57,Produktions-Perlenkette wird gebildet,2024-01-20 14:56:15,Niklas Weber,64.32,P,r,Firma3,Standort B,Standort A
+57,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Emma Hoffmann,16.68,P,r,Firma4,Standort C,Standort D
+57,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Anna Schmidt,65.13,P,r,Firma3,Standort D,Standort E
+58,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,45.24,P,r,Firma4,Standort E,Standort C
+58,Bestellung aufnehmen,2024-01-19 19:56:15,Emma Hoffmann,36.78,P,r,Firma2,Standort A,Standort E
+58,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Felix Schröder,43.2,P,r,Firma3,Standort D,Standort C
+58,Teilenummern werden gebildet,2024-01-20 00:56:15,Lukas Wagner,75.07,P,r,Firma5,Standort C,Standort B
+58,Bestellung wird eingefroren,2024-01-20 02:56:15,Emma Hoffmann,98.65,P,r,Firma5,Standort D,Standort A
+58,Teile werden bereitgestellt,2024-01-20 05:56:15,Max Müller,18.0,P,r,Firma5,Standort D,Standort E
+58,Karosserie wird gebaut,2024-01-20 08:56:15,Leon Zimmermann,51.46,P,r,Firma1,Standort D,Standort A
+58,Lackierung erfolgt,2024-01-20 09:56:15,Leon Zimmermann,34.54,P,r,Firma4,Standort E,Standort E
+58,Montage,2024-01-20 12:56:15,Max Müller,52.62,P,r,Firma2,Standort A,Standort B
+58,Produktions-Perlenkette wird gebildet,2024-01-20 15:56:15,Julia Schneider,43.77,P,r,Firma4,Standort D,Standort D
+58,Lieferketten im Werk werden gebildet ,2024-01-20 18:56:15,Sophia Bauer,13.29,P,r,Firma1,Standort A,Standort B
+58,Produktionsnummer wird eingesteuert,2024-01-20 19:56:15,Lukas Wagner,64.19,P,r,Firma4,Standort D,Standort E
+59,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,40.48,P,r,Firma4,Standort B,Standort D
+59,Bestellung aufnehmen,2024-01-19 19:56:15,Leon Zimmermann,83.54,P,r,Firma1,Standort C,Standort E
+59,Bestellung wird an Werk übergeben,2024-01-19 22:56:15,Mia Fischer,33.22,P,r,Firma1,Standort B,Standort E
+59,Teilenummern werden gebildet,2024-01-19 23:56:15,Emma Hoffmann,39.96,P,r,Firma4,Standort A,Standort B
+59,Bestellung wird eingefroren,2024-01-20 00:56:15,Felix Schröder,16.6,P,r,Firma3,Standort B,Standort B
+59,Teile werden bereitgestellt,2024-01-20 03:56:15,Mia Fischer,56.75,P,r,Firma3,Standort D,Standort E
+59,Karosserie wird gebaut,2024-01-20 06:56:15,Max Müller,74.12,P,r,Firma3,Standort A,Standort B
+59,Lackierung erfolgt,2024-01-20 09:56:15,Felix Schröder,14.43,P,r,Firma5,Standort C,Standort A
+59,Montage,2024-01-20 11:56:15,Sophia Bauer,23.74,P,r,Firma2,Standort A,Standort E
+59,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Mia Fischer,94.14,P,r,Firma3,Standort A,Standort A
+59,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Anna Schmidt,20.67,P,r,Firma5,Standort B,Standort E
+59,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Mia Fischer,87.72,P,r,Firma1,Standort B,Standort D
+60,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,90.48,P,r,Firma3,Standort E,Standort B
+60,Bestellung aufnehmen,2024-01-19 18:56:15,Leon Zimmermann,67.73,P,r,Firma2,Standort B,Standort E
+60,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Niklas Weber,11.87,P,r,Firma4,Standort D,Standort D
+60,Teilenummern werden gebildet,2024-01-19 23:56:15,Sophia Bauer,28.3,P,r,Firma5,Standort C,Standort D
+60,Bestellung wird eingefroren,2024-01-20 00:56:15,Leon Zimmermann,73.38,P,r,Firma2,Standort E,Standort B
+60,Teile werden bereitgestellt,2024-01-20 01:56:15,Julia Schneider,81.46,P,r,Firma2,Standort B,Standort D
+60,Karosserie wird gebaut,2024-01-20 04:56:15,Lukas Wagner,37.16,P,r,Firma5,Standort A,Standort B
+60,Lackierung erfolgt,2024-01-20 05:56:15,Sophia Bauer,49.49,P,r,Firma1,Standort B,Standort D
+60,Montage,2024-01-20 07:56:15,Max Müller,21.8,P,r,Firma2,Standort A,Standort E
+60,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Mia Fischer,91.27,P,r,Firma2,Standort D,Standort A
+60,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Sophia Bauer,44.83,P,r,Firma2,Standort E,Standort C
+60,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Emma Hoffmann,45.69,P,r,Firma4,Standort D,Standort C
+61,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,34.9,P,r,Firma5,Standort A,Standort D
+61,Bestellung aufnehmen,2024-01-19 19:56:15,Max Müller,21.17,P,r,Firma2,Standort D,Standort D
+61,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,14.06,P,r,Firma1,Standort B,Standort E
+61,Teilenummern werden gebildet,2024-01-19 21:56:15,Mia Fischer,44.08,P,r,Firma1,Standort A,Standort A
+61,Bestellung wird eingefroren,2024-01-19 22:56:15,Mia Fischer,64.83,P,r,Firma2,Standort B,Standort E
+61,Teile werden bereitgestellt,2024-01-20 01:56:15,Julia Schneider,56.21,P,r,Firma2,Standort E,Standort A
+61,Karosserie wird gebaut,2024-01-20 02:56:15,Max Müller,97.23,P,r,Firma3,Standort A,Standort B
+61,Lackierung erfolgt,2024-01-20 03:56:15,Felix Schröder,34.56,P,r,Firma3,Standort A,Standort B
+61,Montage,2024-01-20 04:56:15,Anna Schmidt,45.85,P,r,Firma2,Standort B,Standort A
+61,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Felix Schröder,77.37,P,r,Firma4,Standort A,Standort C
+61,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Felix Schröder,67.8,P,r,Firma4,Standort B,Standort C
+61,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Mia Fischer,74.43,P,r,Firma2,Standort E,Standort C
+62,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,94.3,P,r,Firma5,Standort A,Standort A
+62,Bestellung aufnehmen,2024-01-19 18:56:15,Felix Schröder,27.63,P,r,Firma1,Standort A,Standort D
+62,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Niklas Weber,35.31,P,r,Firma1,Standort A,Standort D
+62,Teilenummern werden gebildet,2024-01-20 00:56:15,Felix Schröder,47.31,P,r,Firma3,Standort B,Standort A
+62,Bestellung wird eingefroren,2024-01-20 02:56:15,Niklas Weber,56.97,P,r,Firma1,Standort D,Standort A
+62,Teile werden bereitgestellt,2024-01-20 05:56:15,Sophia Bauer,49.99,P,r,Firma3,Standort D,Standort E
+62,Karosserie wird gebaut,2024-01-20 08:56:15,Lukas Wagner,55.35,P,r,Firma5,Standort D,Standort C
+62,Lackierung erfolgt,2024-01-20 10:56:15,Mia Fischer,97.81,P,r,Firma5,Standort B,Standort A
+62,Montage,2024-01-20 13:56:15,Julia Schneider,79.91,P,r,Firma5,Standort D,Standort C
+62,Produktions-Perlenkette wird gebildet,2024-01-20 14:56:15,Lukas Wagner,58.05,P,r,Firma1,Standort D,Standort C
+62,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Anna Schmidt,29.61,P,r,Firma4,Standort E,Standort C
+62,Produktionsnummer wird eingesteuert,2024-01-20 19:56:15,Sophia Bauer,93.63,P,r,Firma5,Standort C,Standort D
+63,Auto wird versendet,2024-01-19 16:56:15,Max Müller,41.91,P,r,Firma3,Standort E,Standort B
+63,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,25.27,P,r,Firma4,Standort A,Standort A
+63,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Felix Schröder,87.37,P,r,Firma3,Standort E,Standort B
+63,Teilenummern werden gebildet,2024-01-19 21:56:15,Max Müller,45.32,P,r,Firma2,Standort D,Standort B
+63,Bestellung wird eingefroren,2024-01-19 23:56:15,Anna Schmidt,12.47,P,r,Firma3,Standort B,Standort A
+63,Teile werden bereitgestellt,2024-01-20 02:56:15,Sophia Bauer,50.57,P,r,Firma2,Standort A,Standort B
+63,Karosserie wird gebaut,2024-01-20 05:56:15,Niklas Weber,39.72,P,r,Firma3,Standort E,Standort A
+63,Lackierung erfolgt,2024-01-20 08:56:15,Anna Schmidt,71.06,P,r,Firma4,Standort C,Standort D
+63,Montage,2024-01-20 09:56:15,Anna Schmidt,69.41,P,r,Firma5,Standort B,Standort A
+63,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Anna Schmidt,31.48,P,r,Firma3,Standort A,Standort B
+63,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Sophia Bauer,82.43,P,r,Firma5,Standort E,Standort C
+63,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Leon Zimmermann,63.77,P,r,Firma1,Standort A,Standort D
+64,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,50.49,P,r,Firma5,Standort B,Standort B
+64,Bestellung aufnehmen,2024-01-19 18:56:15,Niklas Weber,96.66,P,r,Firma1,Standort C,Standort B
+64,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Mia Fischer,31.35,P,r,Firma3,Standort B,Standort A
+64,Teilenummern werden gebildet,2024-01-20 00:56:15,Sophia Bauer,92.33,P,r,Firma5,Standort B,Standort A
+64,Bestellung wird eingefroren,2024-01-20 02:56:15,Mia Fischer,30.88,P,r,Firma5,Standort D,Standort D
+64,Teile werden bereitgestellt,2024-01-20 03:56:15,Anna Schmidt,99.93,P,r,Firma2,Standort B,Standort A
+64,Karosserie wird gebaut,2024-01-20 04:56:15,Anna Schmidt,31.82,P,r,Firma3,Standort D,Standort E
+64,Lackierung erfolgt,2024-01-20 07:56:15,Anna Schmidt,54.06,P,r,Firma3,Standort C,Standort E
+64,Montage,2024-01-20 08:56:15,Anna Schmidt,12.33,P,r,Firma2,Standort D,Standort C
+64,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Felix Schröder,40.73,P,r,Firma3,Standort D,Standort E
+64,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Mia Fischer,30.19,P,r,Firma2,Standort E,Standort E
+64,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Sophia Bauer,39.03,P,r,Firma3,Standort B,Standort D
+65,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,50.73,P,r,Firma4,Standort D,Standort C
+65,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,99.26,P,r,Firma5,Standort D,Standort D
+65,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,92.74,P,r,Firma2,Standort D,Standort B
+65,Teilenummern werden gebildet,2024-01-19 21:56:15,Niklas Weber,22.69,P,r,Firma5,Standort A,Standort C
+65,Bestellung wird eingefroren,2024-01-19 22:56:15,Max Müller,45.55,P,r,Firma3,Standort C,Standort D
+65,Teile werden bereitgestellt,2024-01-20 00:56:15,Max Müller,90.83,P,r,Firma1,Standort A,Standort B
+65,Karosserie wird gebaut,2024-01-20 01:56:15,Mia Fischer,28.15,P,r,Firma5,Standort E,Standort C
+65,Lackierung erfolgt,2024-01-20 02:56:15,Felix Schröder,46.31,P,r,Firma4,Standort C,Standort B
+65,Montage,2024-01-20 05:56:15,Niklas Weber,81.19,P,r,Firma3,Standort A,Standort D
+65,Produktions-Perlenkette wird gebildet,2024-01-20 06:56:15,Niklas Weber,40.91,P,r,Firma1,Standort B,Standort B
+65,Lieferketten im Werk werden gebildet ,2024-01-20 07:56:15,Felix Schröder,33.43,P,r,Firma1,Standort D,Standort A
+65,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Lukas Wagner,41.61,P,r,Firma5,Standort E,Standort D
+66,Auto wird versendet,2024-01-19 16:56:15,Max Müller,22.7,P,r,Firma3,Standort C,Standort C
+66,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,63.89,P,r,Firma3,Standort B,Standort A
+66,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Mia Fischer,19.88,P,r,Firma3,Standort E,Standort D
+66,Teilenummern werden gebildet,2024-01-19 20:56:15,Emma Hoffmann,42.21,P,r,Firma2,Standort A,Standort E
+66,Bestellung wird eingefroren,2024-01-19 21:56:15,Anna Schmidt,80.01,P,r,Firma3,Standort E,Standort A
+66,Teile werden bereitgestellt,2024-01-19 22:56:15,Leon Zimmermann,42.49,P,r,Firma2,Standort D,Standort A
+66,Karosserie wird gebaut,2024-01-20 01:56:15,Max Müller,35.89,P,r,Firma5,Standort E,Standort C
+66,Lackierung erfolgt,2024-01-20 04:56:15,Niklas Weber,56.28,P,r,Firma3,Standort D,Standort A
+66,Montage,2024-01-20 07:56:15,Mia Fischer,59.67,P,r,Firma5,Standort C,Standort A
+66,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Mia Fischer,39.72,P,r,Firma2,Standort A,Standort C
+66,Lieferketten im Werk werden gebildet ,2024-01-20 10:56:15,Emma Hoffmann,26.48,P,r,Firma5,Standort A,Standort C
+66,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Anna Schmidt,52.07,P,r,Firma5,Standort C,Standort E
+67,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,77.36,P,r,Firma2,Standort B,Standort E
+67,Bestellung aufnehmen,2024-01-19 19:56:15,Sophia Bauer,31.22,P,r,Firma1,Standort C,Standort D
+67,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Niklas Weber,53.74,P,r,Firma5,Standort D,Standort B
+67,Teilenummern werden gebildet,2024-01-19 23:56:15,Anna Schmidt,59.36,P,r,Firma1,Standort D,Standort C
+67,Bestellung wird eingefroren,2024-01-20 02:56:15,Mia Fischer,71.7,P,r,Firma5,Standort A,Standort E
+67,Teile werden bereitgestellt,2024-01-20 03:56:15,Sophia Bauer,45.88,P,r,Firma1,Standort A,Standort C
+67,Karosserie wird gebaut,2024-01-20 06:56:15,Felix Schröder,30.16,P,r,Firma2,Standort E,Standort A
+67,Lackierung erfolgt,2024-01-20 08:56:15,Leon Zimmermann,48.46,P,r,Firma3,Standort E,Standort D
+67,Montage,2024-01-20 09:56:15,Max Müller,16.92,P,r,Firma2,Standort D,Standort A
+67,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Mia Fischer,38.38,P,r,Firma1,Standort E,Standort B
+67,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Max Müller,84.15,P,r,Firma3,Standort D,Standort D
+67,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Emma Hoffmann,57.35,P,r,Firma5,Standort E,Standort C
+68,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,47.87,P,r,Firma2,Standort C,Standort B
+68,Bestellung aufnehmen,2024-01-19 17:56:15,Mia Fischer,67.14,P,r,Firma4,Standort A,Standort B
+68,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Niklas Weber,64.08,P,r,Firma3,Standort E,Standort C
+68,Teilenummern werden gebildet,2024-01-19 23:56:15,Sophia Bauer,88.62,P,r,Firma4,Standort C,Standort B
+68,Bestellung wird eingefroren,2024-01-20 01:56:15,Niklas Weber,35.14,P,r,Firma5,Standort A,Standort C
+68,Teile werden bereitgestellt,2024-01-20 04:56:15,Mia Fischer,89.02,P,r,Firma5,Standort A,Standort B
+68,Karosserie wird gebaut,2024-01-20 07:56:15,Emma Hoffmann,57.13,P,r,Firma3,Standort D,Standort C
+68,Lackierung erfolgt,2024-01-20 08:56:15,Max Müller,14.04,P,r,Firma1,Standort B,Standort B
+68,Montage,2024-01-20 11:56:15,Leon Zimmermann,21.73,P,r,Firma5,Standort C,Standort D
+68,Produktions-Perlenkette wird gebildet,2024-01-20 14:56:15,Mia Fischer,61.85,P,r,Firma3,Standort C,Standort E
+68,Lieferketten im Werk werden gebildet ,2024-01-20 17:56:15,Anna Schmidt,72.16,P,r,Firma1,Standort B,Standort B
+68,Produktionsnummer wird eingesteuert,2024-01-20 20:56:15,Lukas Wagner,26.12,P,r,Firma1,Standort C,Standort D
+69,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,47.93,P,r,Firma5,Standort A,Standort C
+69,Bestellung aufnehmen,2024-01-19 17:56:15,Felix Schröder,73.14,P,r,Firma4,Standort C,Standort D
+69,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Felix Schröder,36.19,P,r,Firma4,Standort E,Standort E
+69,Teilenummern werden gebildet,2024-01-19 19:56:15,Max Müller,20.58,P,r,Firma1,Standort A,Standort C
+69,Bestellung wird eingefroren,2024-01-19 20:56:15,Julia Schneider,66.73,P,r,Firma4,Standort E,Standort D
+69,Teile werden bereitgestellt,2024-01-19 23:56:15,Niklas Weber,83.93,P,r,Firma4,Standort B,Standort C
+69,Karosserie wird gebaut,2024-01-20 02:56:15,Leon Zimmermann,66.24,P,r,Firma4,Standort C,Standort C
+69,Lackierung erfolgt,2024-01-20 03:56:15,Anna Schmidt,57.45,P,r,Firma1,Standort A,Standort B
+69,Montage,2024-01-20 04:56:15,Anna Schmidt,48.28,P,r,Firma5,Standort A,Standort B
+69,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Niklas Weber,38.86,P,r,Firma2,Standort D,Standort A
+69,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Max Müller,50.91,P,r,Firma5,Standort B,Standort E
+69,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Niklas Weber,51.63,P,r,Firma1,Standort C,Standort B
+70,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,33.28,P,r,Firma5,Standort D,Standort B
+70,Bestellung aufnehmen,2024-01-19 18:56:15,Felix Schröder,87.22,P,r,Firma4,Standort B,Standort B
+70,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Sophia Bauer,66.18,P,r,Firma2,Standort B,Standort C
+70,Teilenummern werden gebildet,2024-01-19 23:56:15,Emma Hoffmann,11.27,P,r,Firma4,Standort B,Standort E
+70,Bestellung wird eingefroren,2024-01-20 01:56:15,Emma Hoffmann,61.58,P,r,Firma4,Standort E,Standort D
+70,Teile werden bereitgestellt,2024-01-20 04:56:15,Lukas Wagner,82.24,P,r,Firma5,Standort D,Standort B
+70,Karosserie wird gebaut,2024-01-20 06:56:15,Niklas Weber,92.34,P,r,Firma1,Standort D,Standort A
+70,Lackierung erfolgt,2024-01-20 09:56:15,Emma Hoffmann,31.42,P,r,Firma5,Standort B,Standort D
+70,Montage,2024-01-20 10:56:15,Emma Hoffmann,90.71,P,r,Firma5,Standort C,Standort A
+70,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Max Müller,18.77,P,r,Firma2,Standort B,Standort E
+70,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Felix Schröder,48.54,P,r,Firma5,Standort B,Standort D
+70,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Leon Zimmermann,23.85,P,r,Firma5,Standort A,Standort E
+71,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,55.99,P,r,Firma5,Standort E,Standort E
+71,Bestellung aufnehmen,2024-01-19 18:56:15,Niklas Weber,27.78,P,r,Firma1,Standort B,Standort E
+71,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Max Müller,17.02,P,r,Firma1,Standort E,Standort A
+71,Teilenummern werden gebildet,2024-01-19 20:56:15,Lukas Wagner,25.55,P,r,Firma5,Standort D,Standort E
+71,Bestellung wird eingefroren,2024-01-19 23:56:15,Mia Fischer,61.79,P,r,Firma3,Standort C,Standort E
+71,Teile werden bereitgestellt,2024-01-20 01:56:15,Mia Fischer,26.0,P,r,Firma3,Standort D,Standort A
+71,Karosserie wird gebaut,2024-01-20 04:56:15,Max Müller,70.61,P,r,Firma5,Standort B,Standort C
+71,Lackierung erfolgt,2024-01-20 07:56:15,Mia Fischer,72.83,P,r,Firma2,Standort C,Standort E
+71,Montage,2024-01-20 09:56:15,Lukas Wagner,61.7,P,r,Firma2,Standort E,Standort B
+71,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Felix Schröder,40.77,P,r,Firma5,Standort C,Standort B
+71,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Mia Fischer,38.84,P,r,Firma1,Standort D,Standort D
+71,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Sophia Bauer,62.94,P,r,Firma4,Standort C,Standort C
+72,Auto wird versendet,2024-01-19 16:56:15,Max Müller,10.12,P,r,Firma4,Standort E,Standort A
+72,Bestellung aufnehmen,2024-01-19 19:56:15,Sophia Bauer,88.52,P,r,Firma4,Standort B,Standort C
+72,Bestellung wird an Werk übergeben,2024-01-19 22:56:15,Lukas Wagner,53.39,P,r,Firma3,Standort E,Standort C
+72,Teilenummern werden gebildet,2024-01-20 01:56:15,Lukas Wagner,81.2,P,r,Firma2,Standort A,Standort E
+72,Bestellung wird eingefroren,2024-01-20 03:56:15,Anna Schmidt,11.28,P,r,Firma4,Standort D,Standort B
+72,Teile werden bereitgestellt,2024-01-20 06:56:15,Emma Hoffmann,61.92,P,r,Firma2,Standort B,Standort E
+72,Karosserie wird gebaut,2024-01-20 07:56:15,Julia Schneider,53.56,P,r,Firma2,Standort C,Standort B
+72,Lackierung erfolgt,2024-01-20 10:56:15,Leon Zimmermann,31.99,P,r,Firma3,Standort B,Standort B
+72,Montage,2024-01-20 12:56:15,Lukas Wagner,28.9,P,r,Firma4,Standort C,Standort A
+72,Produktions-Perlenkette wird gebildet,2024-01-20 14:56:15,Emma Hoffmann,35.73,P,r,Firma4,Standort C,Standort A
+72,Lieferketten im Werk werden gebildet ,2024-01-20 17:56:15,Sophia Bauer,96.75,P,r,Firma1,Standort A,Standort A
+72,Produktionsnummer wird eingesteuert,2024-01-20 19:56:15,Anna Schmidt,45.57,P,r,Firma1,Standort B,Standort C
+73,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,88.04,P,r,Firma1,Standort C,Standort D
+73,Bestellung aufnehmen,2024-01-19 18:56:15,Mia Fischer,50.23,P,r,Firma1,Standort C,Standort D
+73,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Leon Zimmermann,56.2,P,r,Firma3,Standort B,Standort D
+73,Teilenummern werden gebildet,2024-01-19 21:56:15,Niklas Weber,19.21,P,r,Firma5,Standort C,Standort E
+73,Bestellung wird eingefroren,2024-01-19 22:56:15,Anna Schmidt,66.86,P,r,Firma1,Standort D,Standort D
+73,Teile werden bereitgestellt,2024-01-19 23:56:15,Lukas Wagner,35.3,P,r,Firma3,Standort A,Standort A
+73,Karosserie wird gebaut,2024-01-20 00:56:15,Sophia Bauer,29.35,P,r,Firma4,Standort E,Standort D
+73,Lackierung erfolgt,2024-01-20 03:56:15,Max Müller,82.78,P,r,Firma1,Standort E,Standort C
+73,Montage,2024-01-20 04:56:15,Lukas Wagner,92.87,P,r,Firma2,Standort C,Standort B
+73,Produktions-Perlenkette wird gebildet,2024-01-20 05:56:15,Anna Schmidt,73.19,P,r,Firma2,Standort E,Standort C
+73,Lieferketten im Werk werden gebildet ,2024-01-20 07:56:15,Lukas Wagner,30.36,P,r,Firma1,Standort D,Standort B
+73,Produktionsnummer wird eingesteuert,2024-01-20 09:56:15,Max Müller,38.18,P,r,Firma2,Standort E,Standort B
+74,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,74.86,P,r,Firma4,Standort C,Standort A
+74,Bestellung aufnehmen,2024-01-19 18:56:15,Felix Schröder,52.11,P,r,Firma2,Standort E,Standort E
+74,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Julia Schneider,27.63,P,r,Firma5,Standort D,Standort A
+74,Teilenummern werden gebildet,2024-01-19 22:56:15,Niklas Weber,50.34,P,r,Firma1,Standort D,Standort C
+74,Bestellung wird eingefroren,2024-01-20 00:56:15,Niklas Weber,10.17,P,r,Firma5,Standort A,Standort C
+74,Teile werden bereitgestellt,2024-01-20 03:56:15,Julia Schneider,69.06,P,r,Firma1,Standort C,Standort E
+74,Karosserie wird gebaut,2024-01-20 06:56:15,Emma Hoffmann,94.07,P,r,Firma2,Standort A,Standort A
+74,Lackierung erfolgt,2024-01-20 08:56:15,Felix Schröder,96.87,P,r,Firma3,Standort E,Standort C
+74,Montage,2024-01-20 11:56:15,Julia Schneider,34.24,P,r,Firma5,Standort E,Standort E
+74,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Leon Zimmermann,27.73,P,r,Firma2,Standort E,Standort A
+74,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Max Müller,77.89,P,r,Firma2,Standort C,Standort E
+74,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Felix Schröder,64.66,P,r,Firma3,Standort C,Standort D
+75,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,78.18,P,r,Firma4,Standort C,Standort D
+75,Bestellung aufnehmen,2024-01-19 18:56:15,Felix Schröder,53.61,P,r,Firma2,Standort C,Standort D
+75,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Niklas Weber,85.29,P,r,Firma5,Standort C,Standort E
+75,Teilenummern werden gebildet,2024-01-19 22:56:15,Max Müller,34.3,P,r,Firma1,Standort A,Standort B
+75,Bestellung wird eingefroren,2024-01-19 23:56:15,Leon Zimmermann,99.89,P,r,Firma2,Standort D,Standort D
+75,Teile werden bereitgestellt,2024-01-20 02:56:15,Mia Fischer,43.09,P,r,Firma1,Standort E,Standort B
+75,Karosserie wird gebaut,2024-01-20 03:56:15,Lukas Wagner,93.41,P,r,Firma2,Standort C,Standort C
+75,Lackierung erfolgt,2024-01-20 05:56:15,Sophia Bauer,95.51,P,r,Firma4,Standort A,Standort A
+75,Montage,2024-01-20 08:56:15,Leon Zimmermann,58.93,P,r,Firma3,Standort C,Standort A
+75,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Julia Schneider,55.92,P,r,Firma3,Standort B,Standort D
+75,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Mia Fischer,50.98,P,r,Firma5,Standort E,Standort A
+75,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Felix Schröder,87.9,P,r,Firma5,Standort B,Standort A
+76,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,97.1,P,r,Firma3,Standort C,Standort A
+76,Bestellung aufnehmen,2024-01-19 17:56:15,Anna Schmidt,21.73,P,r,Firma3,Standort D,Standort C
+76,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,42.23,P,r,Firma5,Standort B,Standort B
+76,Teilenummern werden gebildet,2024-01-19 22:56:15,Julia Schneider,69.89,P,r,Firma4,Standort D,Standort E
+76,Bestellung wird eingefroren,2024-01-20 01:56:15,Felix Schröder,84.84,P,r,Firma1,Standort D,Standort A
+76,Teile werden bereitgestellt,2024-01-20 03:56:15,Leon Zimmermann,67.57,P,r,Firma1,Standort B,Standort C
+76,Karosserie wird gebaut,2024-01-20 05:56:15,Felix Schröder,95.29,P,r,Firma3,Standort C,Standort D
+76,Lackierung erfolgt,2024-01-20 06:56:15,Sophia Bauer,61.07,P,r,Firma5,Standort E,Standort C
+76,Montage,2024-01-20 07:56:15,Mia Fischer,58.35,P,r,Firma2,Standort A,Standort B
+76,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Emma Hoffmann,38.56,P,r,Firma1,Standort D,Standort A
+76,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Felix Schröder,47.67,P,r,Firma4,Standort C,Standort B
+76,Produktionsnummer wird eingesteuert,2024-01-20 13:56:15,Julia Schneider,72.41,P,r,Firma1,Standort B,Standort D
+77,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,48.79,P,r,Firma1,Standort B,Standort A
+77,Bestellung aufnehmen,2024-01-19 17:56:15,Leon Zimmermann,19.91,P,r,Firma5,Standort C,Standort E
+77,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Leon Zimmermann,77.34,P,r,Firma2,Standort A,Standort D
+77,Teilenummern werden gebildet,2024-01-19 22:56:15,Leon Zimmermann,28.38,P,r,Firma1,Standort B,Standort B
+77,Bestellung wird eingefroren,2024-01-19 23:56:15,Lukas Wagner,26.38,P,r,Firma4,Standort D,Standort E
+77,Teile werden bereitgestellt,2024-01-20 02:56:15,Felix Schröder,70.05,P,r,Firma3,Standort E,Standort B
+77,Karosserie wird gebaut,2024-01-20 03:56:15,Mia Fischer,76.58,P,r,Firma1,Standort C,Standort C
+77,Lackierung erfolgt,2024-01-20 06:56:15,Leon Zimmermann,28.3,P,r,Firma4,Standort A,Standort C
+77,Montage,2024-01-20 07:56:15,Niklas Weber,86.72,P,r,Firma2,Standort D,Standort C
+77,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Felix Schröder,45.47,P,r,Firma5,Standort B,Standort A
+77,Lieferketten im Werk werden gebildet ,2024-01-20 10:56:15,Lukas Wagner,60.07,P,r,Firma5,Standort A,Standort A
+77,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Niklas Weber,12.39,P,r,Firma1,Standort D,Standort C
+78,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,60.51,P,r,Firma4,Standort C,Standort D
+78,Bestellung aufnehmen,2024-01-19 18:56:15,Emma Hoffmann,79.25,P,r,Firma5,Standort B,Standort C
+78,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Leon Zimmermann,29.73,P,r,Firma5,Standort B,Standort B
+78,Teilenummern werden gebildet,2024-01-19 22:56:15,Sophia Bauer,44.08,P,r,Firma3,Standort C,Standort A
+78,Bestellung wird eingefroren,2024-01-20 01:56:15,Lukas Wagner,13.02,P,r,Firma4,Standort E,Standort B
+78,Teile werden bereitgestellt,2024-01-20 03:56:15,Sophia Bauer,36.01,P,r,Firma5,Standort B,Standort A
+78,Karosserie wird gebaut,2024-01-20 04:56:15,Niklas Weber,79.58,P,r,Firma1,Standort B,Standort E
+78,Lackierung erfolgt,2024-01-20 07:56:15,Felix Schröder,60.78,P,r,Firma1,Standort B,Standort C
+78,Montage,2024-01-20 10:56:15,Emma Hoffmann,53.27,P,r,Firma4,Standort E,Standort E
+78,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Sophia Bauer,72.2,P,r,Firma4,Standort D,Standort D
+78,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Felix Schröder,44.63,P,r,Firma1,Standort E,Standort B
+78,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Leon Zimmermann,61.52,P,r,Firma1,Standort E,Standort A
+79,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,24.48,P,r,Firma2,Standort B,Standort B
+79,Bestellung aufnehmen,2024-01-19 19:56:15,Niklas Weber,55.05,P,r,Firma1,Standort A,Standort E
+79,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Leon Zimmermann,34.03,P,r,Firma3,Standort A,Standort D
+79,Teilenummern werden gebildet,2024-01-19 22:56:15,Felix Schröder,58.15,P,r,Firma3,Standort D,Standort C
+79,Bestellung wird eingefroren,2024-01-20 01:56:15,Anna Schmidt,75.39,P,r,Firma2,Standort C,Standort D
+79,Teile werden bereitgestellt,2024-01-20 02:56:15,Mia Fischer,39.85,P,r,Firma1,Standort A,Standort C
+79,Karosserie wird gebaut,2024-01-20 05:56:15,Max Müller,57.62,P,r,Firma4,Standort A,Standort C
+79,Lackierung erfolgt,2024-01-20 06:56:15,Leon Zimmermann,58.5,P,r,Firma3,Standort B,Standort D
+79,Montage,2024-01-20 08:56:15,Lukas Wagner,53.46,P,r,Firma5,Standort E,Standort C
+79,Produktions-Perlenkette wird gebildet,2024-01-20 11:56:15,Emma Hoffmann,57.66,P,r,Firma3,Standort E,Standort E
+79,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Julia Schneider,23.96,P,r,Firma1,Standort E,Standort D
+79,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Felix Schröder,21.42,P,r,Firma2,Standort D,Standort E
+80,Auto wird versendet,2024-01-19 16:56:15,Max Müller,66.84,P,r,Firma5,Standort B,Standort E
+80,Bestellung aufnehmen,2024-01-19 17:56:15,Julia Schneider,87.5,P,r,Firma3,Standort A,Standort B
+80,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Felix Schröder,14.35,P,r,Firma2,Standort E,Standort E
+80,Teilenummern werden gebildet,2024-01-19 20:56:15,Felix Schröder,23.33,P,r,Firma3,Standort A,Standort C
+80,Bestellung wird eingefroren,2024-01-19 22:56:15,Julia Schneider,91.02,P,r,Firma1,Standort D,Standort A
+80,Teile werden bereitgestellt,2024-01-20 00:56:15,Mia Fischer,35.84,P,r,Firma3,Standort A,Standort E
+80,Karosserie wird gebaut,2024-01-20 01:56:15,Sophia Bauer,70.58,P,r,Firma2,Standort C,Standort E
+80,Lackierung erfolgt,2024-01-20 04:56:15,Mia Fischer,63.51,P,r,Firma2,Standort A,Standort E
+80,Montage,2024-01-20 06:56:15,Anna Schmidt,27.38,P,r,Firma3,Standort B,Standort C
+80,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Julia Schneider,74.23,P,r,Firma2,Standort D,Standort B
+80,Lieferketten im Werk werden gebildet ,2024-01-20 08:56:15,Max Müller,74.83,P,r,Firma5,Standort A,Standort A
+80,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Niklas Weber,26.08,P,r,Firma5,Standort B,Standort C
+81,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,17.8,P,r,Firma3,Standort C,Standort D
+81,Bestellung aufnehmen,2024-01-19 19:56:15,Julia Schneider,15.96,P,r,Firma1,Standort B,Standort D
+81,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Mia Fischer,21.7,P,r,Firma5,Standort B,Standort A
+81,Teilenummern werden gebildet,2024-01-19 23:56:15,Leon Zimmermann,61.6,P,r,Firma5,Standort B,Standort C
+81,Bestellung wird eingefroren,2024-01-20 02:56:15,Leon Zimmermann,65.57,P,r,Firma4,Standort B,Standort A
+81,Teile werden bereitgestellt,2024-01-20 05:56:15,Max Müller,95.99,P,r,Firma5,Standort B,Standort B
+81,Karosserie wird gebaut,2024-01-20 08:56:15,Lukas Wagner,15.04,P,r,Firma4,Standort D,Standort B
+81,Lackierung erfolgt,2024-01-20 11:56:15,Mia Fischer,96.81,P,r,Firma1,Standort C,Standort C
+81,Montage,2024-01-20 14:56:15,Lukas Wagner,48.3,P,r,Firma2,Standort B,Standort B
+81,Produktions-Perlenkette wird gebildet,2024-01-20 16:56:15,Anna Schmidt,95.01,P,r,Firma4,Standort C,Standort A
+81,Lieferketten im Werk werden gebildet ,2024-01-20 17:56:15,Mia Fischer,69.3,P,r,Firma2,Standort A,Standort C
+81,Produktionsnummer wird eingesteuert,2024-01-20 19:56:15,Emma Hoffmann,18.73,P,r,Firma1,Standort C,Standort D
+82,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,71.35,P,r,Firma4,Standort C,Standort A
+82,Bestellung aufnehmen,2024-01-19 18:56:15,Julia Schneider,68.9,P,r,Firma4,Standort A,Standort C
+82,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,73.39,P,r,Firma5,Standort B,Standort E
+82,Teilenummern werden gebildet,2024-01-19 23:56:15,Lukas Wagner,39.79,P,r,Firma1,Standort C,Standort B
+82,Bestellung wird eingefroren,2024-01-20 01:56:15,Anna Schmidt,32.94,P,r,Firma2,Standort E,Standort D
+82,Teile werden bereitgestellt,2024-01-20 03:56:15,Sophia Bauer,43.9,P,r,Firma1,Standort A,Standort D
+82,Karosserie wird gebaut,2024-01-20 06:56:15,Sophia Bauer,14.11,P,r,Firma5,Standort D,Standort B
+82,Lackierung erfolgt,2024-01-20 09:56:15,Max Müller,97.98,P,r,Firma1,Standort C,Standort E
+82,Montage,2024-01-20 12:56:15,Mia Fischer,38.11,P,r,Firma1,Standort B,Standort D
+82,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Niklas Weber,71.03,P,r,Firma1,Standort E,Standort C
+82,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Emma Hoffmann,90.05,P,r,Firma2,Standort D,Standort D
+82,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Felix Schröder,56.55,P,r,Firma2,Standort E,Standort B
+83,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,82.95,P,r,Firma5,Standort E,Standort A
+83,Bestellung aufnehmen,2024-01-19 19:56:15,Lukas Wagner,16.09,P,r,Firma1,Standort C,Standort B
+83,Bestellung wird an Werk übergeben,2024-01-19 22:56:15,Felix Schröder,44.11,P,r,Firma3,Standort E,Standort D
+83,Teilenummern werden gebildet,2024-01-19 23:56:15,Niklas Weber,77.25,P,r,Firma1,Standort E,Standort A
+83,Bestellung wird eingefroren,2024-01-20 02:56:15,Mia Fischer,81.01,P,r,Firma1,Standort D,Standort C
+83,Teile werden bereitgestellt,2024-01-20 05:56:15,Niklas Weber,60.66,P,r,Firma1,Standort B,Standort B
+83,Karosserie wird gebaut,2024-01-20 08:56:15,Felix Schröder,75.47,P,r,Firma1,Standort D,Standort D
+83,Lackierung erfolgt,2024-01-20 09:56:15,Anna Schmidt,20.69,P,r,Firma2,Standort E,Standort B
+83,Montage,2024-01-20 10:56:15,Emma Hoffmann,11.85,P,r,Firma4,Standort B,Standort C
+83,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Sophia Bauer,13.89,P,r,Firma1,Standort A,Standort B
+83,Lieferketten im Werk werden gebildet ,2024-01-20 14:56:15,Leon Zimmermann,16.8,P,r,Firma3,Standort B,Standort B
+83,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Felix Schröder,94.5,P,r,Firma5,Standort A,Standort B
+84,Auto wird versendet,2024-01-19 16:56:15,Felix Schröder,64.5,P,r,Firma2,Standort B,Standort A
+84,Bestellung aufnehmen,2024-01-19 19:56:15,Mia Fischer,63.78,P,r,Firma1,Standort B,Standort D
+84,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Emma Hoffmann,56.8,P,r,Firma5,Standort D,Standort E
+84,Teilenummern werden gebildet,2024-01-19 21:56:15,Lukas Wagner,49.5,P,r,Firma2,Standort E,Standort D
+84,Bestellung wird eingefroren,2024-01-20 00:56:15,Lukas Wagner,42.02,P,r,Firma3,Standort D,Standort E
+84,Teile werden bereitgestellt,2024-01-20 02:56:15,Sophia Bauer,17.81,P,r,Firma1,Standort A,Standort D
+84,Karosserie wird gebaut,2024-01-20 04:56:15,Julia Schneider,60.04,P,r,Firma2,Standort C,Standort A
+84,Lackierung erfolgt,2024-01-20 06:56:15,Julia Schneider,30.79,P,r,Firma2,Standort C,Standort C
+84,Montage,2024-01-20 08:56:15,Anna Schmidt,41.43,P,r,Firma1,Standort E,Standort D
+84,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Mia Fischer,18.76,P,r,Firma4,Standort E,Standort D
+84,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Anna Schmidt,21.7,P,r,Firma1,Standort E,Standort E
+84,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Julia Schneider,56.07,P,r,Firma5,Standort E,Standort C
+85,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,68.29,P,r,Firma5,Standort E,Standort D
+85,Bestellung aufnehmen,2024-01-19 17:56:15,Niklas Weber,88.57,P,r,Firma4,Standort C,Standort B
+85,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Felix Schröder,45.02,P,r,Firma4,Standort E,Standort E
+85,Teilenummern werden gebildet,2024-01-19 20:56:15,Niklas Weber,43.36,P,r,Firma2,Standort D,Standort D
+85,Bestellung wird eingefroren,2024-01-19 22:56:15,Sophia Bauer,96.37,P,r,Firma5,Standort D,Standort D
+85,Teile werden bereitgestellt,2024-01-20 01:56:15,Lukas Wagner,37.55,P,r,Firma2,Standort D,Standort B
+85,Karosserie wird gebaut,2024-01-20 02:56:15,Julia Schneider,90.86,P,r,Firma2,Standort E,Standort A
+85,Lackierung erfolgt,2024-01-20 05:56:15,Mia Fischer,39.89,P,r,Firma5,Standort E,Standort D
+85,Montage,2024-01-20 06:56:15,Anna Schmidt,96.33,P,r,Firma3,Standort C,Standort B
+85,Produktions-Perlenkette wird gebildet,2024-01-20 09:56:15,Leon Zimmermann,85.38,P,r,Firma1,Standort A,Standort A
+85,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Mia Fischer,38.16,P,r,Firma4,Standort A,Standort D
+85,Produktionsnummer wird eingesteuert,2024-01-20 13:56:15,Emma Hoffmann,72.83,P,r,Firma1,Standort A,Standort C
+86,Auto wird versendet,2024-01-19 16:56:15,Emma Hoffmann,37.04,P,r,Firma4,Standort A,Standort C
+86,Bestellung aufnehmen,2024-01-19 18:56:15,Max Müller,36.05,P,r,Firma4,Standort A,Standort B
+86,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Mia Fischer,34.34,P,r,Firma5,Standort C,Standort C
+86,Teilenummern werden gebildet,2024-01-20 00:56:15,Mia Fischer,70.3,P,r,Firma1,Standort D,Standort D
+86,Bestellung wird eingefroren,2024-01-20 03:56:15,Anna Schmidt,80.63,P,r,Firma4,Standort B,Standort B
+86,Teile werden bereitgestellt,2024-01-20 06:56:15,Leon Zimmermann,54.49,P,r,Firma3,Standort E,Standort C
+86,Karosserie wird gebaut,2024-01-20 07:56:15,Felix Schröder,46.14,P,r,Firma1,Standort D,Standort D
+86,Lackierung erfolgt,2024-01-20 08:56:15,Anna Schmidt,39.7,P,r,Firma1,Standort A,Standort B
+86,Montage,2024-01-20 11:56:15,Max Müller,50.36,P,r,Firma3,Standort C,Standort A
+86,Produktions-Perlenkette wird gebildet,2024-01-20 14:56:15,Sophia Bauer,87.5,P,r,Firma2,Standort A,Standort C
+86,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Lukas Wagner,90.93,P,r,Firma2,Standort D,Standort B
+86,Produktionsnummer wird eingesteuert,2024-01-20 18:56:15,Emma Hoffmann,42.83,P,r,Firma1,Standort A,Standort D
+87,Auto wird versendet,2024-01-19 16:56:15,Niklas Weber,34.13,P,r,Firma2,Standort E,Standort E
+87,Bestellung aufnehmen,2024-01-19 18:56:15,Lukas Wagner,55.4,P,r,Firma1,Standort C,Standort E
+87,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Anna Schmidt,92.44,P,r,Firma3,Standort C,Standort B
+87,Teilenummern werden gebildet,2024-01-19 20:56:15,Julia Schneider,26.14,P,r,Firma5,Standort D,Standort A
+87,Bestellung wird eingefroren,2024-01-19 22:56:15,Max Müller,68.99,P,r,Firma2,Standort C,Standort B
+87,Teile werden bereitgestellt,2024-01-20 01:56:15,Niklas Weber,16.92,P,r,Firma1,Standort B,Standort A
+87,Karosserie wird gebaut,2024-01-20 04:56:15,Felix Schröder,64.64,P,r,Firma5,Standort E,Standort E
+87,Lackierung erfolgt,2024-01-20 05:56:15,Leon Zimmermann,80.28,P,r,Firma1,Standort D,Standort E
+87,Montage,2024-01-20 06:56:15,Max Müller,87.15,P,r,Firma1,Standort C,Standort C
+87,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Felix Schröder,60.34,P,r,Firma1,Standort A,Standort E
+87,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Niklas Weber,53.86,P,r,Firma3,Standort A,Standort C
+87,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Leon Zimmermann,95.91,P,r,Firma4,Standort B,Standort E
+88,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,27.29,P,r,Firma3,Standort C,Standort D
+88,Bestellung aufnehmen,2024-01-19 19:56:15,Niklas Weber,73.6,P,r,Firma1,Standort A,Standort D
+88,Bestellung wird an Werk übergeben,2024-01-19 21:56:15,Lukas Wagner,62.8,P,r,Firma1,Standort E,Standort C
+88,Teilenummern werden gebildet,2024-01-19 22:56:15,Max Müller,65.91,P,r,Firma1,Standort E,Standort B
+88,Bestellung wird eingefroren,2024-01-20 01:56:15,Max Müller,14.27,P,r,Firma2,Standort C,Standort A
+88,Teile werden bereitgestellt,2024-01-20 03:56:15,Emma Hoffmann,30.27,P,r,Firma3,Standort E,Standort D
+88,Karosserie wird gebaut,2024-01-20 06:56:15,Max Müller,57.5,P,r,Firma2,Standort C,Standort C
+88,Lackierung erfolgt,2024-01-20 09:56:15,Julia Schneider,81.28,P,r,Firma4,Standort E,Standort D
+88,Montage,2024-01-20 12:56:15,Sophia Bauer,76.6,P,r,Firma4,Standort E,Standort C
+88,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Anna Schmidt,64.65,P,r,Firma5,Standort A,Standort E
+88,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Felix Schröder,87.91,P,r,Firma1,Standort E,Standort A
+88,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Julia Schneider,72.99,P,r,Firma2,Standort C,Standort B
+89,Auto wird versendet,2024-01-19 16:56:15,Max Müller,79.68,P,r,Firma5,Standort C,Standort E
+89,Bestellung aufnehmen,2024-01-19 17:56:15,Felix Schröder,37.29,P,r,Firma4,Standort B,Standort B
+89,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Max Müller,60.04,P,r,Firma5,Standort A,Standort A
+89,Teilenummern werden gebildet,2024-01-19 21:56:15,Anna Schmidt,48.5,P,r,Firma2,Standort C,Standort E
+89,Bestellung wird eingefroren,2024-01-19 23:56:15,Emma Hoffmann,76.18,P,r,Firma3,Standort A,Standort E
+89,Teile werden bereitgestellt,2024-01-20 01:56:15,Max Müller,45.55,P,r,Firma5,Standort D,Standort A
+89,Karosserie wird gebaut,2024-01-20 02:56:15,Emma Hoffmann,54.96,P,r,Firma2,Standort C,Standort D
+89,Lackierung erfolgt,2024-01-20 03:56:15,Emma Hoffmann,54.35,P,r,Firma3,Standort E,Standort C
+89,Montage,2024-01-20 05:56:15,Julia Schneider,22.43,P,r,Firma3,Standort B,Standort A
+89,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Max Müller,44.78,P,r,Firma1,Standort E,Standort C
+89,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Felix Schröder,26.36,P,r,Firma1,Standort D,Standort C
+89,Produktionsnummer wird eingesteuert,2024-01-20 12:56:15,Leon Zimmermann,29.85,P,r,Firma5,Standort B,Standort D
+90,Auto wird versendet,2024-01-19 16:56:15,Lukas Wagner,58.81,P,r,Firma5,Standort C,Standort E
+90,Bestellung aufnehmen,2024-01-19 18:56:15,Anna Schmidt,66.97,P,r,Firma3,Standort D,Standort A
+90,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Sophia Bauer,51.67,P,r,Firma5,Standort C,Standort A
+90,Teilenummern werden gebildet,2024-01-19 20:56:15,Sophia Bauer,79.4,P,r,Firma4,Standort A,Standort B
+90,Bestellung wird eingefroren,2024-01-19 21:56:15,Mia Fischer,33.6,P,r,Firma3,Standort E,Standort B
+90,Teile werden bereitgestellt,2024-01-19 22:56:15,Niklas Weber,95.47,P,r,Firma1,Standort C,Standort C
+90,Karosserie wird gebaut,2024-01-19 23:56:15,Sophia Bauer,76.49,P,r,Firma1,Standort A,Standort D
+90,Lackierung erfolgt,2024-01-20 02:56:15,Anna Schmidt,53.33,P,r,Firma5,Standort B,Standort E
+90,Montage,2024-01-20 05:56:15,Emma Hoffmann,29.48,P,r,Firma3,Standort B,Standort C
+90,Produktions-Perlenkette wird gebildet,2024-01-20 07:56:15,Felix Schröder,96.56,P,r,Firma4,Standort E,Standort D
+90,Lieferketten im Werk werden gebildet ,2024-01-20 09:56:15,Mia Fischer,55.91,P,r,Firma1,Standort C,Standort C
+90,Produktionsnummer wird eingesteuert,2024-01-20 10:56:15,Max Müller,85.24,P,r,Firma3,Standort D,Standort A
+91,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,99.62,P,r,Firma3,Standort D,Standort A
+91,Bestellung aufnehmen,2024-01-19 17:56:15,Lukas Wagner,75.03,P,r,Firma2,Standort D,Standort B
+91,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Lukas Wagner,21.67,P,r,Firma5,Standort C,Standort E
+91,Teilenummern werden gebildet,2024-01-19 20:56:15,Lukas Wagner,67.63,P,r,Firma3,Standort A,Standort B
+91,Bestellung wird eingefroren,2024-01-19 21:56:15,Felix Schröder,21.64,P,r,Firma3,Standort A,Standort A
+91,Teile werden bereitgestellt,2024-01-19 22:56:15,Leon Zimmermann,44.78,P,r,Firma5,Standort C,Standort B
+91,Karosserie wird gebaut,2024-01-19 23:56:15,Sophia Bauer,71.51,P,r,Firma5,Standort E,Standort A
+91,Lackierung erfolgt,2024-01-20 02:56:15,Felix Schröder,55.36,P,r,Firma5,Standort D,Standort B
+91,Montage,2024-01-20 05:56:15,Leon Zimmermann,80.76,P,r,Firma3,Standort E,Standort B
+91,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Leon Zimmermann,57.94,P,r,Firma2,Standort A,Standort B
+91,Lieferketten im Werk werden gebildet ,2024-01-20 10:56:15,Felix Schröder,26.4,P,r,Firma5,Standort A,Standort D
+91,Produktionsnummer wird eingesteuert,2024-01-20 11:56:15,Sophia Bauer,24.92,P,r,Firma4,Standort E,Standort D
+92,Auto wird versendet,2024-01-19 16:56:15,Julia Schneider,59.97,P,r,Firma3,Standort A,Standort C
+92,Bestellung aufnehmen,2024-01-19 19:56:15,Sophia Bauer,34.87,P,r,Firma1,Standort D,Standort B
+92,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Felix Schröder,52.7,P,r,Firma3,Standort E,Standort E
+92,Teilenummern werden gebildet,2024-01-19 23:56:15,Max Müller,40.46,P,r,Firma2,Standort B,Standort C
+92,Bestellung wird eingefroren,2024-01-20 01:56:15,Emma Hoffmann,47.15,P,r,Firma4,Standort D,Standort B
+92,Teile werden bereitgestellt,2024-01-20 03:56:15,Felix Schröder,88.15,P,r,Firma3,Standort D,Standort C
+92,Karosserie wird gebaut,2024-01-20 06:56:15,Leon Zimmermann,92.44,P,r,Firma2,Standort B,Standort C
+92,Lackierung erfolgt,2024-01-20 09:56:15,Felix Schröder,27.25,P,r,Firma5,Standort B,Standort D
+92,Montage,2024-01-20 12:56:15,Anna Schmidt,90.51,P,r,Firma4,Standort C,Standort E
+92,Produktions-Perlenkette wird gebildet,2024-01-20 15:56:15,Mia Fischer,68.42,P,r,Firma2,Standort E,Standort D
+92,Lieferketten im Werk werden gebildet ,2024-01-20 16:56:15,Max Müller,23.43,P,r,Firma1,Standort A,Standort E
+92,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Niklas Weber,60.49,P,r,Firma1,Standort E,Standort A
+93,Auto wird versendet,2024-01-19 16:56:15,Mia Fischer,24.09,P,r,Firma1,Standort C,Standort A
+93,Bestellung aufnehmen,2024-01-19 17:56:15,Emma Hoffmann,43.86,P,r,Firma1,Standort C,Standort D
+93,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Mia Fischer,33.61,P,r,Firma2,Standort D,Standort C
+93,Teilenummern werden gebildet,2024-01-19 23:56:15,Felix Schröder,89.64,P,r,Firma2,Standort E,Standort D
+93,Bestellung wird eingefroren,2024-01-20 02:56:15,Mia Fischer,15.7,P,r,Firma1,Standort B,Standort E
+93,Teile werden bereitgestellt,2024-01-20 03:56:15,Leon Zimmermann,53.93,P,r,Firma5,Standort B,Standort C
+93,Karosserie wird gebaut,2024-01-20 04:56:15,Sophia Bauer,51.65,P,r,Firma2,Standort D,Standort E
+93,Lackierung erfolgt,2024-01-20 07:56:15,Leon Zimmermann,91.95,P,r,Firma1,Standort A,Standort E
+93,Montage,2024-01-20 09:56:15,Lukas Wagner,45.7,P,r,Firma1,Standort C,Standort D
+93,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Niklas Weber,28.47,P,r,Firma4,Standort E,Standort C
+93,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Niklas Weber,64.35,P,r,Firma5,Standort B,Standort C
+93,Produktionsnummer wird eingesteuert,2024-01-20 16:56:15,Mia Fischer,90.87,P,r,Firma2,Standort B,Standort B
+94,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,40.34,P,r,Firma2,Standort C,Standort B
+94,Bestellung aufnehmen,2024-01-19 19:56:15,Niklas Weber,87.89,P,r,Firma1,Standort C,Standort E
+94,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Mia Fischer,95.24,P,r,Firma2,Standort D,Standort B
+94,Teilenummern werden gebildet,2024-01-19 23:56:15,Max Müller,98.46,P,r,Firma2,Standort D,Standort D
+94,Bestellung wird eingefroren,2024-01-20 01:56:15,Sophia Bauer,48.24,P,r,Firma3,Standort A,Standort E
+94,Teile werden bereitgestellt,2024-01-20 03:56:15,Lukas Wagner,17.28,P,r,Firma3,Standort B,Standort D
+94,Karosserie wird gebaut,2024-01-20 05:56:15,Emma Hoffmann,80.76,P,r,Firma1,Standort A,Standort C
+94,Lackierung erfolgt,2024-01-20 08:56:15,Mia Fischer,10.98,P,r,Firma4,Standort B,Standort D
+94,Montage,2024-01-20 10:56:15,Max Müller,86.75,P,r,Firma1,Standort A,Standort A
+94,Produktions-Perlenkette wird gebildet,2024-01-20 13:56:15,Emma Hoffmann,21.96,P,r,Firma2,Standort B,Standort E
+94,Lieferketten im Werk werden gebildet ,2024-01-20 15:56:15,Lukas Wagner,59.69,P,r,Firma1,Standort A,Standort E
+94,Produktionsnummer wird eingesteuert,2024-01-20 17:56:15,Felix Schröder,75.09,P,r,Firma5,Standort D,Standort B
+95,Auto wird versendet,2024-01-19 16:56:15,Max Müller,46.69,P,r,Firma5,Standort D,Standort D
+95,Bestellung aufnehmen,2024-01-19 17:56:15,Max Müller,33.88,P,r,Firma5,Standort A,Standort A
+95,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Leon Zimmermann,26.55,P,r,Firma3,Standort B,Standort B
+95,Teilenummern werden gebildet,2024-01-19 19:56:15,Felix Schröder,31.21,P,r,Firma1,Standort B,Standort D
+95,Bestellung wird eingefroren,2024-01-19 22:56:15,Felix Schröder,33.36,P,r,Firma1,Standort E,Standort A
+95,Teile werden bereitgestellt,2024-01-19 23:56:15,Mia Fischer,22.72,P,r,Firma4,Standort A,Standort E
+95,Karosserie wird gebaut,2024-01-20 01:56:15,Lukas Wagner,49.88,P,r,Firma4,Standort C,Standort A
+95,Lackierung erfolgt,2024-01-20 02:56:15,Lukas Wagner,59.09,P,r,Firma1,Standort E,Standort A
+95,Montage,2024-01-20 05:56:15,Mia Fischer,37.49,P,r,Firma1,Standort D,Standort E
+95,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Anna Schmidt,16.29,P,r,Firma5,Standort B,Standort A
+95,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Leon Zimmermann,94.55,P,r,Firma1,Standort A,Standort E
+95,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Julia Schneider,74.47,P,r,Firma3,Standort E,Standort A
+96,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,14.23,P,r,Firma2,Standort C,Standort E
+96,Bestellung aufnehmen,2024-01-19 17:56:15,Anna Schmidt,15.66,P,r,Firma5,Standort C,Standort E
+96,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Felix Schröder,82.96,P,r,Firma4,Standort B,Standort B
+96,Teilenummern werden gebildet,2024-01-19 19:56:15,Mia Fischer,12.27,P,r,Firma2,Standort C,Standort E
+96,Bestellung wird eingefroren,2024-01-19 21:56:15,Leon Zimmermann,27.93,P,r,Firma2,Standort C,Standort D
+96,Teile werden bereitgestellt,2024-01-20 00:56:15,Max Müller,40.12,P,r,Firma1,Standort B,Standort C
+96,Karosserie wird gebaut,2024-01-20 03:56:15,Emma Hoffmann,27.12,P,r,Firma5,Standort D,Standort B
+96,Lackierung erfolgt,2024-01-20 05:56:15,Niklas Weber,27.77,P,r,Firma3,Standort C,Standort C
+96,Montage,2024-01-20 08:56:15,Leon Zimmermann,19.13,P,r,Firma4,Standort E,Standort A
+96,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Mia Fischer,46.87,P,r,Firma1,Standort C,Standort A
+96,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Max Müller,23.23,P,r,Firma3,Standort A,Standort C
+96,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Anna Schmidt,62.64,P,r,Firma4,Standort A,Standort E
+97,Auto wird versendet,2024-01-19 16:56:15,Anna Schmidt,55.61,P,r,Firma1,Standort A,Standort E
+97,Bestellung aufnehmen,2024-01-19 18:56:15,Leon Zimmermann,73.07,P,r,Firma1,Standort E,Standort A
+97,Bestellung wird an Werk übergeben,2024-01-19 20:56:15,Julia Schneider,29.76,P,r,Firma3,Standort A,Standort B
+97,Teilenummern werden gebildet,2024-01-19 21:56:15,Julia Schneider,24.35,P,r,Firma3,Standort D,Standort E
+97,Bestellung wird eingefroren,2024-01-19 23:56:15,Mia Fischer,23.49,P,r,Firma3,Standort A,Standort A
+97,Teile werden bereitgestellt,2024-01-20 01:56:15,Lukas Wagner,85.32,P,r,Firma4,Standort E,Standort E
+97,Karosserie wird gebaut,2024-01-20 03:56:15,Julia Schneider,13.68,P,r,Firma2,Standort E,Standort A
+97,Lackierung erfolgt,2024-01-20 05:56:15,Emma Hoffmann,47.49,P,r,Firma5,Standort B,Standort B
+97,Montage,2024-01-20 07:56:15,Felix Schröder,33.47,P,r,Firma2,Standort B,Standort B
+97,Produktions-Perlenkette wird gebildet,2024-01-20 08:56:15,Leon Zimmermann,79.5,P,r,Firma1,Standort E,Standort A
+97,Lieferketten im Werk werden gebildet ,2024-01-20 11:56:15,Niklas Weber,32.72,P,r,Firma2,Standort C,Standort A
+97,Produktionsnummer wird eingesteuert,2024-01-20 12:56:15,Anna Schmidt,15.87,P,r,Firma5,Standort E,Standort A
+98,Auto wird versendet,2024-01-19 16:56:15,Sophia Bauer,10.57,P,r,Firma1,Standort D,Standort C
+98,Bestellung aufnehmen,2024-01-19 18:56:15,Sophia Bauer,80.88,P,r,Firma1,Standort D,Standort B
+98,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Emma Hoffmann,26.36,P,r,Firma2,Standort D,Standort A
+98,Teilenummern werden gebildet,2024-01-19 21:56:15,Sophia Bauer,70.35,P,r,Firma1,Standort C,Standort A
+98,Bestellung wird eingefroren,2024-01-19 23:56:15,Felix Schröder,60.39,P,r,Firma5,Standort D,Standort E
+98,Teile werden bereitgestellt,2024-01-20 02:56:15,Felix Schröder,73.84,P,r,Firma2,Standort B,Standort B
+98,Karosserie wird gebaut,2024-01-20 05:56:15,Felix Schröder,52.33,P,r,Firma4,Standort E,Standort A
+98,Lackierung erfolgt,2024-01-20 08:56:15,Anna Schmidt,36.98,P,r,Firma5,Standort D,Standort D
+98,Montage,2024-01-20 10:56:15,Niklas Weber,43.09,P,r,Firma4,Standort E,Standort D
+98,Produktions-Perlenkette wird gebildet,2024-01-20 12:56:15,Max Müller,36.21,P,r,Firma5,Standort E,Standort E
+98,Lieferketten im Werk werden gebildet ,2024-01-20 13:56:15,Emma Hoffmann,19.03,P,r,Firma4,Standort D,Standort D
+98,Produktionsnummer wird eingesteuert,2024-01-20 15:56:15,Lukas Wagner,53.84,P,r,Firma4,Standort A,Standort D
+99,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,42.42,P,r,Firma2,Standort B,Standort B
+99,Bestellung aufnehmen,2024-01-19 17:56:15,Mia Fischer,10.25,P,r,Firma2,Standort A,Standort C
+99,Bestellung wird an Werk übergeben,2024-01-19 19:56:15,Julia Schneider,68.28,P,r,Firma3,Standort C,Standort A
+99,Teilenummern werden gebildet,2024-01-19 22:56:15,Felix Schröder,26.25,P,r,Firma2,Standort B,Standort C
+99,Bestellung wird eingefroren,2024-01-19 23:56:15,Anna Schmidt,73.75,P,r,Firma3,Standort E,Standort D
+99,Teile werden bereitgestellt,2024-01-20 00:56:15,Niklas Weber,41.83,P,r,Firma1,Standort A,Standort E
+99,Karosserie wird gebaut,2024-01-20 03:56:15,Anna Schmidt,21.07,P,r,Firma3,Standort A,Standort E
+99,Lackierung erfolgt,2024-01-20 06:56:15,Mia Fischer,99.99,P,r,Firma3,Standort D,Standort D
+99,Montage,2024-01-20 08:56:15,Julia Schneider,24.81,P,r,Firma5,Standort A,Standort C
+99,Produktions-Perlenkette wird gebildet,2024-01-20 10:56:15,Mia Fischer,81.38,P,r,Firma2,Standort C,Standort D
+99,Lieferketten im Werk werden gebildet ,2024-01-20 12:56:15,Lukas Wagner,83.23,P,r,Firma4,Standort A,Standort E
+99,Produktionsnummer wird eingesteuert,2024-01-20 14:56:15,Sophia Bauer,83.47,P,r,Firma2,Standort E,Standort E
+100,Auto wird versendet,2024-01-19 16:56:15,Leon Zimmermann,46.66,P,r,Firma4,Standort D,Standort B
+100,Bestellung aufnehmen,2024-01-19 17:56:15,Max Müller,63.05,P,r,Firma4,Standort B,Standort D
+100,Bestellung wird an Werk übergeben,2024-01-19 18:56:15,Felix Schröder,63.31,P,r,Firma2,Standort D,Standort A
+100,Teilenummern werden gebildet,2024-01-19 19:56:15,Sophia Bauer,80.6,P,r,Firma4,Standort A,Standort C
+100,Bestellung wird eingefroren,2024-01-19 20:56:15,Emma Hoffmann,76.15,P,r,Firma1,Standort B,Standort E
+100,Teile werden bereitgestellt,2024-01-19 21:56:15,Sophia Bauer,90.73,P,r,Firma2,Standort C,Standort B
+100,Karosserie wird gebaut,2024-01-20 00:56:15,Leon Zimmermann,53.42,P,r,Firma5,Standort D,Standort A
+100,Lackierung erfolgt,2024-01-20 02:56:15,Anna Schmidt,97.99,P,r,Firma4,Standort B,Standort B
+100,Montage,2024-01-20 03:56:15,Max Müller,42.0,P,r,Firma5,Standort A,Standort A
+100,Produktions-Perlenkette wird gebildet,2024-01-20 04:56:15,Felix Schröder,87.05,P,r,Firma3,Standort C,Standort B
+100,Lieferketten im Werk werden gebildet ,2024-01-20 05:56:15,Emma Hoffmann,61.84,P,r,Firma2,Standort E,Standort D
+100,Produktionsnummer wird eingesteuert,2024-01-20 06:56:15,Julia Schneider,39.52,P,r,Firma5,Standort C,Standort C
