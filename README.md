@@ -15,7 +15,8 @@ Um das Skript zu verwenden, benötigen Sie eine Python-Umgebung mit den folgende
 # Nutzen
 
 Dieses Skript ist nützlich für Personen, die an Process Mining interessiert sind und einen synthetischen Event-Log basierend auf einem definierten BPMN-Prozessmodell erstellen möchten. Es hilft bei der Simulation von Prozessdaten, die für die Analyse und das Verständnis von Geschäftsprozessen verwendet werden können.
-Bedienung
+
+# Bedienung
 
     Vorbereitung: Platzieren Sie Ihre BPMN-Datei im gleichen Verzeichnis wie das Skript oder geben Sie den genauen Pfad zur BPMN-Datei im Skript an.
     Ausführung: Führen Sie das Skript in Ihrer Python-Umgebung aus. Das Skript liest die BPMN-Datei, extrahiert die Prozessinformationen und generiert basierend darauf einen Event-Log mit zufälligen Daten.
