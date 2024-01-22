@@ -32,13 +32,18 @@ def extract_process_info(bpmn_root):
 def generate_event_log(process_tasks, num_cases=100):
     logging.info("Generating event log.")
     event_log = []
-    customers_per_case = {case_id: random.choice(customers) for case_id in range(1, num_cases + 1)}
+    case_details = {
+        case_id: {
+            'product': random.choice(products),
+            'customer': random.choice(customers)
+        } for case_id in range(1, num_cases + 1)
+    }
     for case_id in range(1, num_cases + 1):
         timestamp = datetime.now()
-        customer = customers_per_case[case_id]
+        product, product_price = case_details[case_id]['product']
+        customer = case_details[case_id]['customer']
         for task in process_tasks:
             person = random.choice(people)
-            product, product_price = random.choice(products)
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
             cost = round(random.uniform(10, 100), 2)
@@ -63,7 +68,7 @@ def generate_event_log(process_tasks, num_cases=100):
 # Data for random generation
 people = ["Anna Schmidt", "Max Mueller", "Julia Schneider", "Niklas Weber", "Sophia Bauer", "Lukas Wagner", "Mia Fischer", "Leon Zimmermann", "Emma Hoffmann", "Felix Schroeder"]
 products = [("Product A", 100.00), ("Product B", 120.00), ("Product C", 80.00), ("Product D", 70.00), ("Product E", 150.00)]
-customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5"]
+customers = ["Firma 1", "Firma 2", "Firma 3", "Firma 4", "Firma 5"]
 locations = ["Standort A", "Standort B", "Standort C", "Standort D", "Standort E"]
 
 # Main execution
