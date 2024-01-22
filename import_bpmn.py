@@ -42,10 +42,12 @@ def generate_event_log(process_tasks, num_cases=100):
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
             cost = round(random.uniform(10, 100), 2)
+            minutes_offset = random.randint(1, 60)
+            seconds_offset = random.randint(1, 60)
             event_log.append({
                 'Case ID': case_id,
                 'Activity': task,
-                'Timestamp': timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                'Timestamp': (timestamp + timedelta(minutes=minutes_offset, seconds=seconds_offset)).strftime("%Y-%m-%d %H:%M:%S"),
                 'Person': person,
                 'Cost (EUR)': cost,
                 'Product': product,
@@ -54,11 +56,11 @@ def generate_event_log(process_tasks, num_cases=100):
                 'Pickup Location': pickup_location,
                 'Delivery Location': delivery_location
             })
-            timestamp += timedelta(hours=random.randint(1, 3))
+            timestamp += timedelta(minutes=minutes_offset, seconds=seconds_offset)
     logging.info("Event log successfully generated.")
     return event_log
 
-# Data for random generation (without Umlaute)
+# Data for random generation
 people = ["Anna Schmidt", "Max Mueller", "Julia Schneider", "Niklas Weber", "Sophia Bauer", "Lukas Wagner", "Mia Fischer", "Leon Zimmermann", "Emma Hoffmann", "Felix Schroeder"]
 products = [("Product A", 100.00), ("Product B", 120.00), ("Product C", 80.00), ("Product D", 70.00), ("Product E", 150.00)]
 customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5"]
