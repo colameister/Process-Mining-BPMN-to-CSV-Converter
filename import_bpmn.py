@@ -32,12 +32,13 @@ def extract_process_info(bpmn_root):
 def generate_event_log(process_tasks, num_cases=100):
     logging.info("Generating event log.")
     event_log = []
+    customers_per_case = {case_id: random.choice(customers) for case_id in range(1, num_cases + 1)}
     for case_id in range(1, num_cases + 1):
         timestamp = datetime.now()
+        customer = customers_per_case[case_id]
         for task in process_tasks:
             person = random.choice(people)
             product, product_price = random.choice(products)
-            customer = random.choice(customers)
             pickup_location = random.choice(locations)
             delivery_location = random.choice(locations)
             cost = round(random.uniform(10, 100), 2)
@@ -47,8 +48,8 @@ def generate_event_log(process_tasks, num_cases=100):
                 'Timestamp': timestamp.strftime("%Y-%m-%d %H:%M:%S"),
                 'Person': person,
                 'Cost (EUR)': cost,
-                'Product': product[0],
-                'Product Price (EUR)': product[1],
+                'Product': product,
+                'Product Price (EUR)': product_price,
                 'Customer': customer,
                 'Pickup Location': pickup_location,
                 'Delivery Location': delivery_location
@@ -57,9 +58,9 @@ def generate_event_log(process_tasks, num_cases=100):
     logging.info("Event log successfully generated.")
     return event_log
 
-# Data for random generation
-people = ["Anna Schmidt", "Max Müller", "Julia Schneider", "Niklas Weber", "Sophia Bauer", "Lukas Wagner", "Mia Fischer", "Leon Zimmermann", "Emma Hoffmann", "Felix Schröder"]
-products = [("Produkt A", 100.00), ("Produkt B", 120.00), ("Produkt C", 80.00), ("Produkt D", 70.00), ("Produkt E", 150.00)]
+# Data for random generation (without Umlaute)
+people = ["Anna Schmidt", "Max Mueller", "Julia Schneider", "Niklas Weber", "Sophia Bauer", "Lukas Wagner", "Mia Fischer", "Leon Zimmermann", "Emma Hoffmann", "Felix Schroeder"]
+products = [("Product A", 100.00), ("Product B", 120.00), ("Product C", 80.00), ("Product D", 70.00), ("Product E", 150.00)]
 customers = ["Firma1", "Firma2", "Firma3", "Firma4", "Firma5"]
 locations = ["Standort A", "Standort B", "Standort C", "Standort D", "Standort E"]
 
