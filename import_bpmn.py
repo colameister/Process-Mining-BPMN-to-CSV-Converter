@@ -1,13 +1,13 @@
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
-import random
 import pandas as pd
+import random
+from datetime import datetime, timedelta
 import logging
 
 # Setting up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def read_bpmn(file_path):
+def parse_bpmn(file_path):
     logging.info(f"Reading BPMN file from: {file_path}")
     try:
         tree = ET.parse(file_path)
@@ -18,54 +18,17 @@ def read_bpmn(file_path):
         logging.error(f"Error reading the BPMN file: {e}")
         raise
 
-def extract_process_info(bpmn_root):
-    logging.info("Extracting process information from BPMN.")
-    try:
-        tasks = bpmn_root.findall('.//{http://www.omg.org/spec/BPMN/20100524/MODEL}task')
-        process_tasks = [task.get('name') for task in tasks]
-        logging.info(f"Extracted tasks: {process_tasks}")
-        return process_tasks
-    except Exception as e:
-        logging.error(f"Error extracting process information: {e}")
-        raise
+def extract_process_info(root):
+    namespaces = {'bpmn': 'http://www.omg.org/spec/BPMN/20100524/MODEL'}
+    logging.info("Extracting tasks and sequence flows from BPMN file.")
+    tasks = root.findall('.//bpmn:task', namespaces)
+    sequence_flows = root.findall('.//bpmn:sequenceFlow', namespaces)
+    task_mapping = {task.get('id'): task.get('name') for task in tasks}
+    flow_mapping = {flow.get('id'): (flow.get('sourceRef'), flow.get('targetRef')) for flow in sequence_flows}
+    logging.info("Tasks and sequence flows extracted successfully.")
+    return task_mapping, flow_mapping
 
-def generate_event_log(process_tasks, num_cases=100):
-    logging.info("Generating event log.")
-    event_log = []
-    case_details = {
-        case_id: {
-            'product': random.choice(products),
-            'customer': random.choice(customers)
-        } for case_id in range(1, num_cases + 1)
-    }
-    for case_id in range(1, num_cases + 1):
-        timestamp = datetime.now()
-        product, product_price = case_details[case_id]['product']
-        customer = case_details[case_id]['customer']
-        for task in process_tasks:
-            person = random.choice(people)
-            pickup_location = random.choice(locations)
-            delivery_location = random.choice(locations)
-            cost = round(random.uniform(10, 100), 2)
-            minutes_offset = random.randint(1, 60)
-            seconds_offset = random.randint(1, 60)
-            event_log.append({
-                'Case ID': case_id,
-                'Activity': task,
-                'Timestamp': (timestamp + timedelta(minutes=minutes_offset, seconds=seconds_offset)).strftime("%Y-%m-%d %H:%M:%S"),
-                'Person': person,
-                'Cost (EUR)': cost,
-                'Product': product,
-                'Product Price (EUR)': product_price,
-                'Customer': customer,
-                'Pickup Location': pickup_location,
-                'Delivery Location': delivery_location
-            })
-            timestamp += timedelta(minutes=minutes_offset, seconds=seconds_offset)
-    logging.info("Event log successfully generated.")
-    return event_log
-
-# Data for random generation
+# Sample data for random generation
 people = ["Anna Schmidt", "Max Mueller", "Julia Schneider", "Niklas Weber", "Sophia Bauer", "Lukas Wagner", "Mia Fischer", "Leon Zimmermann", "Emma Hoffmann", "Felix Schroeder"]
 products = [("Product A", 100.00), ("Product B", 120.00), ("Product C", 80.00), ("Product D", 70.00), ("Product E", 150.00)]
 customers = ["Firma 1", "Firma 2", "Firma 3", "Firma 4", "Firma 5"]
@@ -73,15 +36,44 @@ locations = ["Standort A", "Standort B", "Standort C", "Standort D", "Standort E
 
 # Main execution
 try:
-    file_path = 'Prozessmodell.bpmn'  # Replace with your BPMN file path
-    bpmn_root = read_bpmn(file_path)
-    process_tasks = extract_process_info(bpmn_root)
-    event_log = generate_event_log(process_tasks, num_cases=100)
+    file_path = 'Logistik Prozess Version 2.bpmn'  # Replace with your BPMN file path
+    bpmn_root = parse_bpmn(file_path)
+    task_mapping, flow_mapping = extract_process_info(bpmn_root)
 
-    # Converting event_log to a DataFrame and saving it as a CSV file
+    logging.info("Generating event log based on BPMN process flow.")
+    num_cases = 100
+    event_log = []
+
+    for case_id in range(1, num_cases + 1):
+        start_task_id = random.choice(list(task_mapping.keys()))
+        current_task_id = start_task_id
+        timestamp = datetime.now()
+
+        while current_task_id:
+            next_flows = [flow_id for flow_id, (src, tgt) in flow_mapping.items() if src == current_task_id]
+            if not next_flows:
+                break
+
+            next_flow_id = random.choice(next_flows)
+            current_task_id = flow_mapping[next_flow_id][1]
+
+            event_log.append({
+                'Case ID': case_id,
+                'Activity': task_mapping.get(current_task_id, 'Unknown Task'),
+                'Timestamp': timestamp.strftime("%Y-%m-%d %H:%M:%S"),
+                'Person': random.choice(people),
+                'Product': random.choice(products)[0],
+                'Customer': random.choice(customers),
+                'Location': random.choice(locations)
+            })
+
+            timestamp += timedelta(minutes=random.randint(1, 30))
+
+    logging.info("Event log generated successfully.")
     df = pd.DataFrame(event_log)
-    csv_file_path = 'event_log.csv'  # Specify your desired CSV file path
+    csv_file_path = 'event_log.csv'
     df.to_csv(csv_file_path, index=False)
     logging.info(f"Event log saved as CSV file: {csv_file_path}")
+
 except Exception as e:
     logging.error(f"An error occurred: {e}")
